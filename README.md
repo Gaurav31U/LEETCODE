@@ -31,6 +31,7 @@
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
 ## Dynamic Programming
@@ -171,6 +172,7 @@
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [2211-k-radius-subarray-averages](https://github.com/Gaurav31U/LEETCODE/tree/master/2211-k-radius-subarray-averages) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -219,6 +221,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Gaurav31U/LEETCODE/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Ordered Set
 |  |
 | ------- |
