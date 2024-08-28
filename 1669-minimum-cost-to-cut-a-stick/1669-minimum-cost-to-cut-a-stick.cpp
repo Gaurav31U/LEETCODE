@@ -11,7 +11,6 @@ public:
           pre=cuts[i];
         } 
         temp.push_back(n-pre);
-        for(auto it:temp)cout<<it<<" ";
         auto arr=temp;
         for(int i=1;i<temp.size();i++){
           temp[i]+=temp[i-1];
