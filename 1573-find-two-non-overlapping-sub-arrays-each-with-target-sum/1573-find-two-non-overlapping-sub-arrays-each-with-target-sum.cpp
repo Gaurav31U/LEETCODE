@@ -1,42 +1,46 @@
 class Solution {
 public:
     int minSumOfLengths(vector<int>& arr, int target) {
-        vector<pair<int,int>> temp;
-        vector<int> p={2,2,4,4,4,4,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1};
-        if(arr==p)return 23;
-        int s=0,j=0;
-        for(int i=0;i<arr.size();i++){
-            s+=arr[i];
-            if(s==target){
-                temp.push_back({i,i-j+1});
-            }else if(s>target){
-                while(s>target){
-                    s-=arr[j];
-                    j++;
-                }
-                if(s==target){
-                    temp.push_back({i,i-j+1});
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(NULL);
+        std::cout.tie(NULL);
+        int i=0,j=0, cur=0;
+        int n = arr.size();
+
+        vector<int> lens(n, INT_MAX);
+
+        while(i<n) {
+            if(cur<target && j<n) {
+                cur+=arr[j];
+                j++;
+            } else if (cur> target) {
+                cur-=arr[i];
+                i++;
+            } else if(cur == target) {
+                lens[i]=j-i;
+                cur-=arr[i];
+                i++;
+            } else {
+                break;
+            }
+        }
+
+        vector<int> sums = lens;
+        for(int i=n-2;i>=0;i--) {
+            sums[i] = min(sums[i], sums[i+1]);
+        }
+        int ans = INT_MAX;
+        for(int i=0;i<n;i++) {
+            if(lens[i]!=INT_MAX && i+lens[i]<n) {
+                if(sums[i+lens[i]]!=INT_MAX) {
+                    ans = min(ans, lens[i]+sums[i+lens[i]]);
                 }
             }
         }
-        if(temp.size()<=1)return -1;
-        if(temp.back().first-temp.back().second+1<=temp[0].first)return -1;
-        int ans=temp.back().second+temp[0].second;
-        int sz=arr.size();
-        int idx=-1;
-        for(int i=0;i<temp.size();i++){
-            if(sz>=temp[i].second){
-                sz=temp[i].second;
-                idx=max(temp[i].first,idx);
-            }
-        }
-        int a=idx-sz+1;
-        int b=idx;
-        for(int i=0;i<temp.size();i++){
-            if(a>temp[i].first || b<(temp[i].first-temp[i].second+1)){
-                ans=min(ans,sz+temp[i].second);
-            }
+        if(ans == INT_MAX) {
+            return -1;
         }
         return ans;
+
     }
 };
