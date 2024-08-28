@@ -1,6 +1,3 @@
-# LEETCODE
-LeetCode Progress
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
