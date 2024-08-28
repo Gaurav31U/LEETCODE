@@ -14,6 +14,7 @@
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Gaurav31U/LEETCODE/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1583-paint-house-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gaurav31U/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1680-count-all-possible-routes](https://github.com/Gaurav31U/LEETCODE/tree/master/1680-count-all-possible-routes) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -37,6 +38,7 @@
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Gaurav31U/LEETCODE/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1583-paint-house-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gaurav31U/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1680-count-all-possible-routes](https://github.com/Gaurav31U/LEETCODE/tree/master/1680-count-all-possible-routes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Gaurav31U/LEETCODE/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1680-count-all-possible-routes](https://github.com/Gaurav31U/LEETCODE/tree/master/1680-count-all-possible-routes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Math
