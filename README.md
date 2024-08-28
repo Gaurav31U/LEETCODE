@@ -30,6 +30,7 @@
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Gaurav31U/LEETCODE/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
 ## Matrix
 |  |
@@ -161,14 +163,17 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -210,4 +215,8 @@
 | ------- |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Gaurav31U/LEETCODE/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
