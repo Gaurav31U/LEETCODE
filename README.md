@@ -42,6 +42,7 @@
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
 ## Dynamic Programming
@@ -122,6 +123,7 @@
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Gaurav31U/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Gaurav31U/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -259,6 +262,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 ## Ordered Set
 |  |
 | ------- |
