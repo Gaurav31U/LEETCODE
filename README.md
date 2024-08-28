@@ -227,6 +227,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
@@ -294,6 +295,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Gaurav31U/LEETCODE/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1923-sentence-similarity-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Design
 |  |
 | ------- |
