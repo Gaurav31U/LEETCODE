@@ -14,6 +14,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Gaurav31U/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Gaurav31U/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Gaurav31U/LEETCODE/tree/master/1466-jump-game-v) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -295,6 +296,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Gaurav31U/LEETCODE/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -312,6 +314,7 @@
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Gaurav31U/LEETCODE/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1923-sentence-similarity-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -320,6 +323,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 ## Segment Tree
 |  |
 | ------- |
@@ -363,4 +367,5 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 <!---LeetCode Topics End-->
