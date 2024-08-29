@@ -36,8 +36,8 @@ public:
             if(mp[nums[i]].size()==1){
                 ans++;
             }else{
-                // auto vi=mp[nums[i]];
-                int l=mp[nums[i]][0],r=i;
+                auto &vi=mp[nums[i]];
+                int l=vi[0],r=i;
                 while(l<r){
                     int mid=(l+r)/2;
                     int t=query(1,1,n,mid+1,i+1);
@@ -47,7 +47,7 @@ public:
                         l=mid+1;
                     }
                 }
-                auto tp=mp[nums[i]].end()-lower_bound(mp[nums[i]].begin(),mp[nums[i]].end(),l);
+                auto tp=vi.end()-lower_bound(vi.begin(),vi.end(),l);
                 ans+=(tp);
             }
         }
