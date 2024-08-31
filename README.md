@@ -57,6 +57,7 @@
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
+| [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -87,6 +88,7 @@
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -164,6 +166,7 @@
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
+| [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
@@ -252,6 +255,7 @@
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
+| [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Sliding Window
 |  |
 | ------- |
@@ -270,6 +274,7 @@
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
+| [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Greedy
 |  |
 | ------- |
@@ -314,6 +319,7 @@
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Monotonic Stack
 |  |
@@ -323,6 +329,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
+| [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Prefix Sum
 |  |
