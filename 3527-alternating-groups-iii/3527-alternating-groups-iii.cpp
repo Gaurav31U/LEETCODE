@@ -1,131 +1,93 @@
+class FenwickTree {
+    vector<array<int, 2>> tree;
+public:
+    FenwickTree(int n) : tree(n + 1) {}
+
+    void update(int size, int op) {
+        for (int i = tree.size() - size; i < tree.size(); i += i & -i) {
+            tree[i][0] += op;
+            tree[i][1] += op * size;
+        }
+    }
+
+    pair<int, int> query(int size) {
+        int cnt = 0, sum = 0;
+        for (int i = tree.size() - size; i > 0; i &= i - 1) {
+            cnt += tree[i][0];
+            sum += tree[i][1];
+        }
+        return {cnt, sum};
+    }
+};
+
 class Solution {
 public:
-    vector<int> alt,ct,seg;
-    set<pair<int,int>> st;
-    int n;
-    
-    pair<int,int> findGroup(int index){
-        auto it=st.upper_bound({index,100000});
-        if(it==st.begin()) return {-1,-1};
-        it--;
-        if(it->first>index || it->first+it->second-1<index) return {-1,-1};
-        return *it;
-    }
-    
-    void update(int index, int val){
-        for(seg[index+n+1]+=val*(index+2),ct[index+n+1]+=val,index+=n+1;index>1;index>>=1){
-            seg[index>>1]=seg[index]+seg[index^1];
-            ct[index>>1]=ct[index]+ct[index^1];
-        }
-    }
+    vector<int> numberOfAlternatingGroups(vector<int>& a, vector<vector<int>>& queries) {
+        int n = a.size();
+        set<int> s;
+        FenwickTree t(n);
+        auto update = [&](int i, int op) {
+            auto it = s.lower_bound(i);
+            int pre = it == s.begin() ? *s.rbegin() : *prev(it);
+            int nxt = it == s.end() ? *s.begin() : *it;
 
-    pair<int,int> query(int l, int r){
-        r++;
-        int x=0,y=0;
-        for(l+=n+1,r+=n+1;l<r;l>>=1,r>>=1){
-            if(l&1){
-                x+=seg[l];
-                y+=ct[l++];
-            }
-            if(r&1){
-                x+=seg[r-1];
-                y+=ct[--r];
-            }
-        }
-        return {x,y};
-    }
-    
-    void flip(int index){
-        alt[index]=1-alt[index];
-        if(alt[index]==1){
-            pair<int,int> g1=findGroup(index-1),g2=findGroup(index+1),x={-1,-1};
-            if(g1==x){
-                if(g2==x){
-                    st.insert({index,1});
-                    update(1,-1);
-                }
-                else{
-                    st.erase(g2);
-                    update(g2.second,-1);
-                    st.insert({index,g2.second+1});
-                    update(g2.second+1,1);
-                }
-            }
-            else{
-                if(g2==x){
-                    st.erase(g1);
-                    update(g1.second,-1);
-                    st.insert({g1.first,g1.second+1});
-                    update(g1.second+1,1);
-                }
-                else{
-                    st.erase(g1);
-                    st.erase(g2);
-                    update(g1.second,-1);
-                    update(g2.second,-1);
-                    st.insert({g1.first,g1.second+g2.second+1});
-                    update(g1.second+g2.second+1,1);
-                }
-            }
-        }
-        else{
-            pair<int,int> g=findGroup(index);
-            st.erase(g);
-            update(g.second,-1);
-            if(g.second!=1){
-                if(g.first<index){
-                    st.insert({g.first,index-g.first});
-                    update(index-g.first,1);
-                }
-                if(g.first+g.second-1>index){
-                    st.insert({index+1,g.first+g.second-(index+1)});
-                    update(g.first+g.second-(index+1),1);
-                }
-            }
-        }
-    }
-    
-    int altGroups(int val){
-        if(st.size()==1 && st.begin()->second==n) return n;
-        pair<int,int> ret=query(val-1,n);
-        int ans=ret.first-(ret.second*val);
+            t.update((nxt - pre + n - 1) % n + 1, -op); 
+            t.update((i - pre + n) % n, op);
+            t.update((nxt - i + n) % n, op); 
+        };
 
-        if(st.size()>=2 && alt[0]==1 && alt[n-1]==1){
-            pair<int,int> g1=*st.begin(),g2=*(--st.end());
-            if(g1.second>=val-1) ans-=g1.second-val+2;
-            if(g2.second>=val-1) ans-=g2.second-val+2;
-            if(g1.second+g2.second>=val-1) ans+=g1.second+g2.second-val+2;
-        }
-        return ans;
-    }
-    
-    vector<int> numberOfAlternatingGroups(vector<int>& colors, vector<vector<int>>& queries) {
-        n=colors.size();
-        ct.resize(2*(n+1));
-        seg.resize(2*(n+1));
-        for(int i=0;i<n;++i){
-            alt.push_back(colors[i]!=colors[(i+1)%n]);
-        }
-        for(int i=0;i<n;++i){
-            if(alt[i]==0) continue;
-            int j=i;
-            while(j<n && alt[j]==1){
-                j++;
+        auto add = [&](int i) {
+            if (s.empty()) {
+                t.update(n, 1);
+            } else {
+                update(i, 1);
             }
-            st.insert({i,j-i});
-            update(j-i,1);
-            i=j;
+            s.insert(i);
+        };
+
+        auto del = [&](int i) {
+            s.erase(i);
+            if (s.empty()) {
+                t.update(n, -1);
+            } else {
+                update(i, -1);
+            }
+        };
+
+        for (int i = 0; i < n; i++) {
+            if (a[i] == a[(i + 1) % n]) {
+                add(i); 
+            }
         }
+
         vector<int> ans;
-        for(auto& q:queries){
-            if(q.size()==2){
-                ans.push_back(altGroups(q[1]));
-            }
-            else{
-                if(colors[q[1]]==q[2]) continue;
-                colors[q[1]]=q[2];
-                flip(q[1]);
-                flip((q[1]-1+n)%n);
+        for (auto& q : queries) {
+            if (q[0] == 1) {
+                if (s.empty()) {
+                    ans.push_back(n); 
+                } else {
+                    auto [cnt, sum] = t.query(q[1]);
+                    ans.push_back(sum - cnt * (q[1] - 1));
+                }
+            } else {
+                int i = q[1];
+                if (a[i] == q[2]) {
+                    continue;
+                }
+                int pre = (i - 1 + n) % n, nxt = (i + 1) % n;
+                if (a[pre] == a[i]) {
+                    del(pre);
+                }
+                if (a[i] == a[nxt]) {
+                    del(i);
+                }
+                a[i] ^= 1;
+                if (a[pre] == a[i]) {
+                    add(pre);
+                }
+                if (a[i] == a[nxt]) {
+                    add(i);
+                }
             }
         }
         return ans;
