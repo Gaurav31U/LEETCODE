@@ -61,6 +61,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -292,6 +295,7 @@
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Stack
 |  |
 | ------- |
