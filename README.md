@@ -61,6 +61,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Dynamic Programming
@@ -164,6 +165,7 @@
 | [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Gaurav31U/LEETCODE/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+| [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
 ## Enumeration
 |  |
 | ------- |
@@ -364,6 +367,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
 ## Tree
 |  |
 | ------- |
