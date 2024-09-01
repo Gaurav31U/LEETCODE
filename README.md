@@ -65,6 +65,7 @@
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3402-minimum-cost-to-equalize-array) |
+| [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
 | [3527-alternating-groups-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/3527-alternating-groups-iii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
@@ -93,6 +94,7 @@
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
+| [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Breadth-First Search
@@ -384,6 +386,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
 ## Tree
 |  |
@@ -434,4 +437,8 @@
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 <!---LeetCode Topics End-->
