@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countPairs(vector<int>& nums) {
-       map<string,int> mp;
+       unordered_map<string,int> mp;
        int ans=0;
        int mx=0;
        sort(nums.begin(),nums.end());
