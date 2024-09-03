@@ -69,6 +69,7 @@
 | [3402-minimum-cost-to-equalize-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3402-minimum-cost-to-equalize-array) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
+| [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
 | [3527-alternating-groups-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/3527-alternating-groups-iii) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
@@ -101,6 +102,7 @@
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -214,6 +216,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Gaurav31U/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
 ## Bitmask
 |  |
 | ------- |
