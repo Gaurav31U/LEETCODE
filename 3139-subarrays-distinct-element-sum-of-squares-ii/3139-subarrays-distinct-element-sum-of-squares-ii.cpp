@@ -2,16 +2,15 @@ class Solution {
 public:
     int st[400000] = {}, lazy[400000] = {}, last[100001] = {}, mod = 1000000007;
     long long query(int l, int r, int p = 1, int tl = 0, int tr = 100000) {
-        if (l > r) 
-            return 0;
-        if (l == tl && r == tr)
-            return (st[p] + (1LL + tr - tl) * lazy[p]) % mod;
+        if (l>r)return 0;
+        if (l==tl && r==tr)
+            return (st[p]+ (1LL + tr-tl) * lazy[p]) % mod;
         int tm = (tl + tr) / 2;
-        return (1LL + r - l) * lazy[p] + 
-            query(l, min(r, tm), p * 2, tl, tm) + query(max(l, tm + 1), r, p * 2 + 1, tm + 1, tr);
+        return (1LL + r-l) * lazy[p] + 
+            query(l,min(r, tm),p*2,tl,tm) + query(max(l,tm+1),r,p*2 + 1,tm + 1,tr);
     }
     void add(int l, int r, int v, int p = 1, int tl = 0, int tr = 100000) {
-        if (l == tl && r == tr)
+        if (l==tl && r==tr)
             lazy[p] += v;
         else if (l <= r) {
             lazy[p * 2] += lazy[p];
