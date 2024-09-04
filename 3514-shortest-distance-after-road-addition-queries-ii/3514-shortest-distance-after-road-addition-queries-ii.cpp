@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> shortestDistanceAfterQueries(int n, vector<vector<int>>& queries) {
         vector<int> ans(queries.size());
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         for(int i=0;i<n-1;i++){
             mp[i]=i+1;
         }
