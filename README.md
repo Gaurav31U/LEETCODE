@@ -117,6 +117,7 @@
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -144,6 +145,7 @@
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
@@ -459,6 +462,7 @@
 |  |
 | ------- |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
