@@ -10,7 +10,7 @@ public:
                     prime[j]=i;
             }
         }
-        map<int,int> temp;
+        unordered_map<int,int> temp;
         for(int i=nums.size()-1;i>=0;i--){
             int t=nums[i];
             while(t>1 && prime[t]!=t){
