@@ -13,7 +13,6 @@ public:
         map<int,int> temp;
         for(int i=nums.size()-1;i>=0;i--){
             int t=nums[i];
-            // if(t==1)continue;
             while(t>1 && prime[t]!=t){
                 int p=prime[t];
                 temp[p]++;
@@ -25,7 +24,6 @@ public:
         int cnt=0;
         for(int i=0;i<nums.size()-1;i++){
             int t=nums[i];
-            // if(t==1)continue;
             while(t>1 && prime[t]!=t){
                 int p=prime[t];
                 st.insert(p);
