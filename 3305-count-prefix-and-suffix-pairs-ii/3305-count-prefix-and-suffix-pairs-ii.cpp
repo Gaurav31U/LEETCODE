@@ -50,10 +50,6 @@ class Trie{
                 temp->cnt++;
             }
         }
-        // if(n==1){
-        //     temp->valid=1;
-        //     temp->cnt++;
-        // }
     }
     int findans(string s){
         node* temp=trie;
