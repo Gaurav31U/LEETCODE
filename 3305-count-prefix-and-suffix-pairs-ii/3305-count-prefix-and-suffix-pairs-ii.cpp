@@ -70,7 +70,7 @@ public:
         long long ans=0;
         Trie trie;
         int n=words.size();
-        map<string,long long> mp;
+        unordered_map<string,long long> mp;
         for(int i=n-1;i>=0;i--){
             mp[words[i]]++;
             int val=trie.findans(words[i]);
