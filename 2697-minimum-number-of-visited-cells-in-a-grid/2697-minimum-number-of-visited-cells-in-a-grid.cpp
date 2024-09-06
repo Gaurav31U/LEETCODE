@@ -47,7 +47,6 @@ public:
                 int p=grid[i][j];
                 int c = col[j].query(1, 1, n, i + 1, min(n, i + p));
                 int r = row[i].query(1, 1, m, j + 1, min(m, j + p));
-                // cout<<i<<" "<<j<<" "<<r<<" "<<c<<"\n";
                 if(i==n-1)c=INT_MAX/4;
                 if(j==m-1)r=INT_MAX/4;
                 dp[i][j]=min(c,r)+1;
