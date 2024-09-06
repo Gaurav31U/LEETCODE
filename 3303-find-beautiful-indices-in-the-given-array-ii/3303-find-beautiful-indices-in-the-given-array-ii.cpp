@@ -28,7 +28,6 @@ public:
         for(int i=0;i<A.size();i++){
             if(A[i]==n){
                 int idx=i-2*n;
-                cout<<idx<<" ";
                 auto tp=lower_bound(vi.begin(),vi.end(),idx);
                 int p=1;
                 if(tp!=vi.end() && abs(*tp-idx)<=k){
