@@ -32,13 +32,10 @@ public:
         num=stoll(n);
         if (num<=10) return to_string(num-1);// edge case
         if (num==11) return "9"; //edge case
-    //    cout<<"num="<<num<<endl;
         int hz=(sz&1)?sz/2+1:sz/2;
         long long half=stoll(n.substr(0, hz));
         compute_10pow();
-
         if (num == ten[sz-1]) {
-            // Special case for numbers like 1000, 10000, etc.
             return to_string(num-1);
         }
         if (num ==ten[sz]-1){
@@ -53,20 +50,17 @@ public:
             else
                 pal[1]=pal_with_half(half+1, sz);
             d[1]=pal[1]-num;
-        //    cout<<"diff="<<d[1]<<" right pal="<<pal[1]<<endl;
         }
         if (d[0]<=0){// left pal
             d[0]=-d[0];
             if (half==ten[sz/2]){
-            //    cout<<"ten";
                 pal[2]=ten[sz-1]-1;
             }
             else
                 pal[2]=pal_with_half(half-1, sz);
             d[2]=num-pal[2];
-        //    cout<<"diff="<<d[2]<<" left pal="<<pal[2]<<endl;
         }
-        if (d[0]==0) d[0]=LLONG_MAX;// exclude central pal when =num
+        if (d[0]==0) d[0]=LLONG_MAX;
         long long minD=*min_element(d, d+3);
         if (d[2]==minD) return to_string(pal[2]);
         if (d[0]==minD) return to_string(pal[0]);
