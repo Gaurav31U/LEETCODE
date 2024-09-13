@@ -18,6 +18,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Gaurav31U/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Gaurav31U/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Gaurav31U/LEETCODE/tree/master/1466-jump-game-v) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -250,6 +251,7 @@
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1881-closest-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1881-closest-subsequence-sum) |
@@ -433,6 +435,7 @@
 |  |
 | ------- |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Gaurav31U/LEETCODE/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
