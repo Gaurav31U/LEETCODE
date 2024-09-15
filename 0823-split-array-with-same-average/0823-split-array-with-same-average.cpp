@@ -2,7 +2,7 @@ class Solution {
 public:
     bool splitArraySameAverage(vector<int>& nums) {
         int n=nums.size();
-        vector<unordered_set<int>> tmp(n/2+1);
+        vector<set<int>> tmp(n/2+1);
         tmp[0].insert(0);
         for(auto num:nums)
             for(int i=n/2;i>=1;i--)
