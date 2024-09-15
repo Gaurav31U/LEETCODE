@@ -71,6 +71,7 @@
 | [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
@@ -125,6 +126,7 @@
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/Gaurav31U/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
@@ -256,6 +258,7 @@
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
