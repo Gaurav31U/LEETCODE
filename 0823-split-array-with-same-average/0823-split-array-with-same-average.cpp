@@ -1,19 +1,20 @@
 class Solution {
 public:
-    bool splitArraySameAverage(vector<int>& nums) {
-        int n=nums.size();
-        vector<set<int>> tmp(n/2+1);
-        tmp[0].insert(0);
-        for(auto num:nums)
-            for(int i=n/2;i>=1;i--)
-                for(auto it:tmp[i-1])
-                    tmp[i].insert(it+num);
-        
-        int sum=0;
-        for(auto it:nums)sum+=it;
-        for(int i=1;i<=n/2;i++){
-            if(i*sum%n==0){
-                if(tmp[i].find(i*sum/n)!=tmp[i].end())return true;
+    bool splitArraySameAverage(vector<int>& a) {
+        int n = a.size();
+        int sum = accumulate(a.begin(), a.end(), 0);
+        vector<int> dp(sum+1,0);
+        for(int i=1;i<=n;i++){
+            for(int j=sum-a[i-1];j>=0;j--){
+                if(dp[j]==0)continue;
+                int t=dp[j];
+                dp[j+a[i-1]]|=dp[j]<<1;
+            }
+            dp[a[i-1]]|=1;
+        }
+        for(int len=1; len<n; len++) {
+            if( (sum*len)%n == 0 && ((1<<(len-1)) & dp[sum*len/n])) {
+                return true;
             }
         }
         return false;
