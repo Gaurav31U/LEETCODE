@@ -11,7 +11,6 @@ public:
                 if(j<0)return true;
                 else return false;
             }
-            if(i<0 && (j<0 || (j==0 && p[j]=='*')))return true;
             if(j<0 || i<0)return false;
             if(dp[i][j]!=-1)return dp[i][j];
             bool ans=false;
