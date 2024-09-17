@@ -18,10 +18,8 @@ public:
                 return get(get,i-1,j-1);
             }
             if(p[j]=='*'){
-                int t=j,c=0;
-                while(t>=0 && p[t]=='*')c++,t--;
                 for(int k=i+1;k>=0;k--)
-                    ans=max(ans,get(get,k-1,j-c));
+                    ans=max(ans,get(get,k-1,j-1));
             }
             if(p[j]=='?')
                 ans=get(get,i-1,j-1);
