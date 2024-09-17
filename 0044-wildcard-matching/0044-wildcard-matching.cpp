@@ -28,8 +28,6 @@ public:
                 ans=get(get,i-1,j-1);
             return dp[i][j]=ans;
         };
-        int j=m-1,c=0;
-        while(j>=0 && p[j]=='*')c++,j--;
-        return get(get,n-1,m-1) || get(get,n-1,m-c);
+        return get(get,n-1,m-1);
     }
 };
