@@ -8,12 +8,8 @@ public:
         vector<vector<long long>> maxSuffix(MAX_SIZE, vector<long long>(MAX_SIZE, 0)); 
         vector<long long> prefixSum(MAX_SIZE, 0); 
         int n = grid.size();
-        for (int i = 0; i <= n; ++i) {
+        for (int i = 0; i <= n; ++i)
             dp[i][0] = 0; 
-            for (int j = 1; j <= n; ++j) {
-                dp[i][j] = -INF;
-            }
-        }
         for (int col = 0; col < n; ++col) {
             prefixSum[0] = 0;
             for (int row = 1; row <= n; ++row) {
