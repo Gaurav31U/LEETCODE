@@ -152,6 +152,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3313-maximum-strength-of-k-disjoint-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/3313-maximum-strength-of-k-disjoint-subarrays) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -520,6 +521,7 @@
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3313-maximum-strength-of-k-disjoint-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/3313-maximum-strength-of-k-disjoint-subarrays) |
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3470-maximum-score-from-grid-operations) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
