@@ -92,6 +92,7 @@
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3402-minimum-cost-to-equalize-array) |
@@ -152,6 +153,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3313-maximum-strength-of-k-disjoint-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/3313-maximum-strength-of-k-disjoint-subarrays) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
@@ -267,6 +269,7 @@
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
@@ -307,6 +310,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Gaurav31U/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
 ## Bitmask
@@ -402,6 +406,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -607,6 +612,7 @@
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
 | [3438-peaks-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3438-peaks-in-array) |
