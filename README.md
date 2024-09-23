@@ -59,6 +59,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Gaurav31U/LEETCODE/tree/master/2294-minimum-time-to-complete-trips) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Gaurav31U/LEETCODE/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/2411-spiral-matrix-iv) |
@@ -354,6 +355,7 @@
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [2155-find-missing-observations](https://github.com/Gaurav31U/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2222-abbreviating-the-product-of-a-range](https://github.com/Gaurav31U/LEETCODE/tree/master/2222-abbreviating-the-product-of-a-range) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Gaurav31U/LEETCODE/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Gaurav31U/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -377,6 +379,7 @@
 |  |
 | ------- |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Gaurav31U/LEETCODE/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Gaurav31U/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
