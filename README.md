@@ -74,6 +74,7 @@
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2703-handling-sum-queries-after-update](https://github.com/Gaurav31U/LEETCODE/tree/master/2703-handling-sum-queries-after-update) |
 | [2726-minimum-reverse-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2726-minimum-reverse-operations) |
+| [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
@@ -143,6 +144,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2921-count-stepping-numbers-in-range](https://github.com/Gaurav31U/LEETCODE/tree/master/2921-count-stepping-numbers-in-range) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/Gaurav31U/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
@@ -552,6 +554,7 @@
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Gaurav31U/LEETCODE/tree/master/2647-split-the-array-to-make-coprime-products) |
+| [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -588,6 +591,7 @@
 | [2091-number-of-ways-to-separate-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/2091-number-of-ways-to-separate-numbers) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2921-count-stepping-numbers-in-range](https://github.com/Gaurav31U/LEETCODE/tree/master/2921-count-stepping-numbers-in-range) |
 | [3203-palindrome-rearrangement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3208-count-beautiful-substrings-ii) |
@@ -688,6 +692,7 @@
 | [0386-lexicographical-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Gaurav31U/LEETCODE/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 ## Combinatorics
