@@ -3,7 +3,7 @@ public:
     int minExtraChar(string s, vector<string>& dictionary) {
         unordered_map<string,int> mp;
         for(auto it:dictionary)mp[it]++;
-        int dp[101];
+        int dp[51];
         memset(dp,-1,sizeof(dp));
         auto get=[&](auto&& get,int i)->int{
             if(i>=s.size())return 0;
