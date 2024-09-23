@@ -1,40 +1,53 @@
 class Solution {
-public:
-    int minNumberOfSemesters(int n, vector<vector<int>>& dependencies, int k) {
-        vector<int> dependency(n, 0);
-        for (size_t i = 0; i < dependencies.size(); ++i) {
-            int course = dependencies[i][1] - 1;
-            int prerequisite = dependencies[i][0] - 1;
-            dependency[course] |= 1 << prerequisite;
-        }
-        vector<int> prerequisites(1 << n, 0);
-        for (int i = 0; i < (1 << n); ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (i & (1 << j)) {
-                    prerequisites[i] |= dependency[j];
-                }
+    vector<vector<int>> adj; 
+    int n;
+    int k;
+    vector<int> dp;
+    int solve(int mask) {
+        if (mask == ((1 << n) - 1))return 0;
+        if (dp[mask] != -1) return dp[mask];
+        vector<int> indeg(n, 0);
+        for (int i = 0; i < n; i++) {
+            if (mask & (1 << i))
+                continue;
+            for (auto it : adj[i]) {
+                indeg[it]++;
             }
         }
-        vector<int> dp(1 << n, n + 1);
-        dp[0] = 0;
-        for (int i = 1; i < (1 << n); ++i) {
-            for (int j = i; j; j = (j - 1) & i) {
-                if (count_setbit(j) > k) {
+        int temp = 0; 
+        for (int i = 0; i < n; i++) {
+            if (indeg[i] == 0 && !(mask & (1 << i))) {
+                temp = temp | (1 << i);
+            }
+        }
+        int j = temp;
+        int cnt = __builtin_popcount(j); 
+        int ans = n +1; 
+        if (cnt > k) {
+            for (; j ; j = (j - 1) & temp) {
+                cnt = __builtin_popcount(j);
+                if (cnt != k)
                     continue;
-                }
-                int already_taken = i ^ ((1 << n) - 1);
-                if ((already_taken & prerequisites[j]) == prerequisites[j]) {
-                    dp[i] = min(dp[i], dp[i ^ j] + 1);
-                }
+                ans = min(ans, 1 + solve(mask | j));
             }
+        } else {
+            ans = min(ans, 1 + solve(mask | j));
         }
-        return dp[(1 << n) - 1];
+        return dp[mask] = ans;
     }
-private:
-    int count_setbit(int mask) {
-        if (mask == 0) {
-            return 0;
+
+public:
+    int minNumberOfSemesters(int N, vector<vector<int>>& d, int K) {
+        n = N;
+        k = K;
+        dp.assign(1 << n, -1);
+        adj.clear();
+        adj.resize(n);
+        for (int i = 0; i < d.size(); i++) {
+            d[i][0]--;
+            d[i][1]--;
+            adj[d[i][0]].push_back(d[i][1]);
         }
-        return 1 + count_setbit(mask & (mask - 1));
+        return solve(0);
     }
 };
