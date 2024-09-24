@@ -7,6 +7,7 @@
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0787-sliding-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/0787-sliding-puzzle) |
@@ -472,6 +473,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -494,6 +496,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -529,6 +532,7 @@
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -543,6 +547,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
