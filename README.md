@@ -97,6 +97,7 @@
 | [3313-maximum-strength-of-k-disjoint-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/3313-maximum-strength-of-k-disjoint-subarrays) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3362-find-the-median-of-the-uniqueness-array) |
@@ -591,6 +592,7 @@
 | [3203-palindrome-rearrangement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3208-count-beautiful-substrings-ii) |
 | [3223-count-complete-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/3223-count-complete-substrings) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
@@ -634,6 +636,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -729,6 +732,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Combinatorics
 |  |
 | ------- |
