@@ -258,6 +258,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/Gaurav31U/LEETCODE/tree/master/0923-super-egg-drop) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
+| [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [1290-make-array-strictly-increasing](https://github.com/Gaurav31U/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
 | [1326-sum-of-floored-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/1326-sum-of-floored-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Gaurav31U/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -440,6 +441,7 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/Gaurav31U/LEETCODE/tree/master/2211-k-radius-subarray-averages) |
@@ -619,6 +621,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
+| [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
@@ -695,6 +698,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0214-shortest-palindrome) |
+| [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -704,6 +708,7 @@
 ## Suffix Array
 |  |
 | ------- |
+| [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
 | [2091-number-of-ways-to-separate-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/2091-number-of-ways-to-separate-numbers) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -720,6 +725,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0214-shortest-palindrome) |
+| [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
