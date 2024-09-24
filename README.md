@@ -60,6 +60,7 @@
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Gaurav31U/LEETCODE/tree/master/2294-minimum-time-to-complete-trips) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Gaurav31U/LEETCODE/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/2411-spiral-matrix-iv) |
@@ -270,6 +271,7 @@
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Gaurav31U/LEETCODE/tree/master/2294-minimum-time-to-complete-trips) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2380-booking-concert-tickets-in-groups) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Gaurav31U/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -299,6 +301,7 @@
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
@@ -467,6 +470,7 @@
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
@@ -489,6 +493,7 @@
 | [1881-closest-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1881-closest-subsequence-sum) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+| [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Binary Indexed Tree
 |  |
