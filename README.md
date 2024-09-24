@@ -126,6 +126,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
+| [0466-count-the-repetitions](https://github.com/Gaurav31U/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0923-super-egg-drop](https://github.com/Gaurav31U/LEETCODE/tree/master/0923-super-egg-drop) |
@@ -619,6 +620,7 @@
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
+| [0466-count-the-repetitions](https://github.com/Gaurav31U/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
