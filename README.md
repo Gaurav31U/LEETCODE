@@ -8,6 +8,7 @@
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0787-sliding-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/0787-sliding-puzzle) |
@@ -257,6 +258,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -512,6 +514,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Gaurav31U/LEETCODE/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2380-booking-concert-tickets-in-groups) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
@@ -615,6 +618,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [2726-minimum-reverse-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2726-minimum-reverse-operations) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
@@ -670,6 +674,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2380-booking-concert-tickets-in-groups) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
@@ -780,6 +785,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Linked List
@@ -805,4 +811,8 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
