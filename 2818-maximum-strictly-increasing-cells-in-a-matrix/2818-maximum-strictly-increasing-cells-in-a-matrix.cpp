@@ -28,7 +28,6 @@ public:
                 put_row.clear();
                 put_col.clear();
             }
-            cout<<last<<" ";
             int mx=0;
             if(!row[i].empty())mx=row[i].top();
             if(!col[j].empty())mx=max(col[j].top(),mx);
