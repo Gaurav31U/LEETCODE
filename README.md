@@ -84,6 +84,7 @@
 | [2726-minimum-reverse-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2726-minimum-reverse-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
+| [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 | [2839-maximum-sum-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2839-maximum-sum-queries) |
@@ -163,6 +164,7 @@
 | [2569-number-of-beautiful-partitions](https://github.com/Gaurav31U/LEETCODE/tree/master/2569-number-of-beautiful-partitions) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
+| [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2921-count-stepping-numbers-in-range](https://github.com/Gaurav31U/LEETCODE/tree/master/2921-count-stepping-numbers-in-range) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
@@ -325,6 +327,7 @@
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
+| [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2839-maximum-sum-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2839-maximum-sum-queries) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
@@ -393,6 +396,7 @@
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Gaurav31U/LEETCODE/tree/master/2647-split-the-array-to-make-coprime-products) |
+| [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Gaurav31U/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/Gaurav31U/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
@@ -589,6 +593,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Gaurav31U/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Gaurav31U/LEETCODE/tree/master/2368-sum-of-total-strength-of-wizards) |
+| [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [3203-palindrome-rearrangement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3208-count-beautiful-substrings-ii) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
