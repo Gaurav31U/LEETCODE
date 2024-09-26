@@ -649,6 +649,7 @@
 | [0639-decode-ways-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0639-decode-ways-ii) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1336-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/1336-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Gaurav31U/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -729,6 +730,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
+| [1336-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/1336-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -757,6 +759,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
+| [1336-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/1336-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
