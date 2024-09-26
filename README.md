@@ -91,6 +91,7 @@
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
+| [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Gaurav31U/LEETCODE/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
@@ -170,6 +171,7 @@
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/Gaurav31U/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3024-string-transformation](https://github.com/Gaurav31U/LEETCODE/tree/master/3024-string-transformation) |
+| [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Gaurav31U/LEETCODE/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
@@ -351,6 +353,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Gaurav31U/LEETCODE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Gaurav31U/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Gaurav31U/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Gaurav31U/LEETCODE/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
