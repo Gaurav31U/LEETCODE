@@ -12,6 +12,7 @@
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/Gaurav31U/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0787-sliding-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
@@ -265,6 +266,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [0729-my-calendar-i](https://github.com/Gaurav31U/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/Gaurav31U/LEETCODE/tree/master/0923-super-egg-drop) |
@@ -629,6 +631,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/Gaurav31U/LEETCODE/tree/master/0729-my-calendar-i) |
 | [2726-minimum-reverse-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2726-minimum-reverse-operations) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -680,6 +683,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0729-my-calendar-i](https://github.com/Gaurav31U/LEETCODE/tree/master/0729-my-calendar-i) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2380-booking-concert-tickets-in-groups) |
@@ -688,6 +692,7 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/Gaurav31U/LEETCODE/tree/master/0729-my-calendar-i) |
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2380-booking-concert-tickets-in-groups) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
