@@ -106,6 +106,7 @@
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gaurav31U/LEETCODE/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3313-maximum-strength-of-k-disjoint-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/3313-maximum-strength-of-k-disjoint-subarrays) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
@@ -187,6 +188,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gaurav31U/LEETCODE/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3313-maximum-strength-of-k-disjoint-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/3313-maximum-strength-of-k-disjoint-subarrays) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
@@ -348,6 +350,7 @@
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gaurav31U/LEETCODE/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
 ## Bit Manipulation
