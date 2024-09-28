@@ -132,6 +132,7 @@
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2726-minimum-reverse-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2726-minimum-reverse-operations) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Graph
 |  |
 | ------- |
@@ -367,6 +369,7 @@
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Bitmask
 |  |
 | ------- |
@@ -377,6 +380,7 @@
 | [1881-closest-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1881-closest-subsequence-sum) |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Memoization
 |  |
 | ------- |
@@ -417,6 +421,7 @@
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Backtracking
 |  |
 | ------- |
@@ -861,4 +866,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 <!---LeetCode Topics End-->
