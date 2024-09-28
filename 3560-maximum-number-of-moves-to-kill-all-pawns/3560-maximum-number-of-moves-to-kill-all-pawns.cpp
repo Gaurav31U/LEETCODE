@@ -8,7 +8,7 @@ public:
         while (!q.empty()) {
             vector<pair<int, int>> q1;
             for (auto [x, y] : q)
-                for (int d = 0; d + 1 < 9; ++d) {
+                for (int d = 0; d  < 8; ++d) {
                     int dx = x + knight[d], dy = y + knight[d + 1];
                     if (min(dx, dy) >= 0 && max(dx, dy) < 50 && !(dx == sx && dy == sy) && b[dx][dy] == 0) {
                         b[dx][dy] = b[x][y] + 1;
