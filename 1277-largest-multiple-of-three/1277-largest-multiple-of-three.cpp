@@ -1,8 +1,6 @@
 class Solution {
 public:
     string largestMultipleOfThree(vector<int>& digits) {
-        // sorting and maths
-        if(digits==vector<int>{5,2,3})return "3";
         sort(digits.begin(),digits.end(),greater<int>());
         vector<int> tmp;
         int s=0;
@@ -28,10 +26,12 @@ public:
                 int p=idx1[0];
                 for(int i=0;i<digits.size();i++)if(p!=i)ans+=char(digits[i]+'0');
                 if(ans[0]=='0')return "0";
+                if(ans.size()>0)
                 return ans;
             }else if(idx2.size()>1){
                 for(int i=0;i<digits.size();i++)if(idx2[0]!=i && idx2[1]!=i)ans+=char(digits[i]+'0');
                 if(ans[0]=='0')return "0";
+                if(ans.size()>0)
                 return ans;
             }
         }
@@ -41,13 +41,19 @@ public:
                 int p=idx2[0];
                 for(int i=0;i<digits.size();i++)if(p!=i)ans+=char(digits[i]+'0');
                 if(ans[0]=='0')return "0";
+                if(ans.size()>0)
                 return ans;
             }else if(idx1.size()>1){
                 for(int i=0;i<digits.size();i++)if(idx1[0]!=i && idx1[1]!=i)ans+=char(digits[i]+'0');
                 if(ans[0]=='0')return "0";
+                if(ans.size()>0)
                 return ans;
             }
         }
-        return "";
+        string ans="";
+        for(int i=0;i<digits.size();i++)
+            if(tmp[i]==0)ans+=char(digits[i]+'0');
+        if(ans[0]=='0')return "0";
+        return ans;
     }
 };
