@@ -81,6 +81,7 @@
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2601-number-of-great-partitions](https://github.com/Gaurav31U/LEETCODE/tree/master/2601-number-of-great-partitions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Gaurav31U/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Gaurav31U/LEETCODE/tree/master/2647-split-the-array-to-make-coprime-products) |
@@ -319,6 +320,7 @@
 | [2380-booking-concert-tickets-in-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2380-booking-concert-tickets-in-groups) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Gaurav31U/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Gaurav31U/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/Gaurav31U/LEETCODE/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
@@ -492,6 +494,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Gaurav31U/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
@@ -508,6 +511,7 @@
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Gaurav31U/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Gaurav31U/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
@@ -542,6 +546,7 @@
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Gaurav31U/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
@@ -635,6 +640,7 @@
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
 | [2200-stamping-the-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2200-stamping-the-grid) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Gaurav31U/LEETCODE/tree/master/2368-sum-of-total-strength-of-wizards) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Gaurav31U/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [3203-palindrome-rearrangement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3208-count-beautiful-substrings-ii) |
