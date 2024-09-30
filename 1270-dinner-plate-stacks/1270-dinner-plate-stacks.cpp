@@ -1,55 +1,45 @@
-class FenwickTree
-{
+class FenwickTree{
     vector<int> tree;
     int sum=0;
     public:
-    void add(int i,int val)
-    {
+    void add(int i,int val){
         sum+=val;
-        while(i<tree.size())
-        {
+        while(i<tree.size()){
             tree[i]+=val;
             i+=(i&(-i));
         }
     }
-    FenwickTree()
-    {
+    FenwickTree(){
         tree.resize(1);
     }
-    FenwickTree(vector<int>& arr)
-    {
+    FenwickTree(vector<int>& arr){
         tree.resize(arr.size()+1);
         for(int i=0;i<arr.size();++i)
             add(i+1,arr[i]);
     }
-    int query(int i)
-    {
+    int query(int i){
         if(i>=tree.size())
             return INT_MAX;
         int ret=0;
-        while(i)
-        {
+        while(i){
             ret+=tree[i];
             i=(i&(i-1));
         }
         return ret;
     }
-    void append(int val)
-    {
+    void append(int val){
         int n=tree.size();
         int parent=(n&(n-1));
         sum+=val;
         tree.push_back(sum-query(parent));
     }
 };
-class DinnerPlates 
-{
+class DinnerPlates {
     int limit,c=0;
     FenwickTree *ptr;
     vector<vector<int>> st;
     int n;
-    int binarySearchLeft()
-    {
+    int binarySearchLeft(){
         int start=0,end=st.size()-1,temp=st.size();
         while(start<=end)
         {
@@ -62,12 +52,10 @@ class DinnerPlates
         }
         return -1;
     }
-    int binarySearchRight()
-    {
+    int binarySearchRight(){
         ++c;
         int start=0,end=st.size()-1,temp=st.size();
-        while(start<=end)
-        {
+        while(start<=end){
             int q=start+(end-start)/2;
             if((long)n-ptr->query(q)>0)
                 if(q+1<temp&&(long)n-ptr->query(q+1)>0)
@@ -78,31 +66,26 @@ class DinnerPlates
         return -1;
     }
 public:
-    DinnerPlates(int capacity) 
-    {
+    DinnerPlates(int capacity) {
         limit=capacity;
         ptr=new FenwickTree();
         n=0;
     }
     
-    void push(int val)
-    {
+    void push(int val){
         int index=binarySearchLeft();
         ++n;
-        if(index!=-1)
-        {
+        if(index!=-1){
             st[index].push_back(val);
             ptr->add(index+1,1);
         }
-        else
-        {
+        else{
             st.push_back({val});
             ptr->append(1);
         }
     }
     
-    int pop() 
-    {
+    int pop() {
         int index=binarySearchRight();
         if(index!=-1)
         {
@@ -115,10 +98,8 @@ public:
         else return -1;
     }
     
-    int popAtStack(int index) 
-    {
-        if(index<st.size()&&st[index].size())
-        {
+    int popAtStack(int index) {
+        if(index<st.size()&&st[index].size()){
             int ret=st[index].back();
             st[index].pop_back();
             ptr->add(index+1,-1);
