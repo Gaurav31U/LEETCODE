@@ -28,13 +28,6 @@ public:
                         grid[x][y]=-1;
                         q.push({tp[0],x,y});
                     }
-                    // else if(grid[x][y]==-1){
-                    //     if(last[x][y]==1 && tp[0]-1>h[x][y] ){
-                    //         q.push({tp[0]-1,x,y});
-                    //     }else if(last[x][y]==0 && tp[0]>h[x][y]){
-                    //         q.push({tp[0],x,y});
-                    //     }
-                    // }
                 }
             }
         }
