@@ -526,6 +526,7 @@
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -692,6 +693,7 @@
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -751,6 +753,7 @@
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Design
 |  |
 | ------- |
