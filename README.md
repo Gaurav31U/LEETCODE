@@ -141,6 +141,7 @@
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Dynamic Programming
 |  |
@@ -226,6 +227,7 @@
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2726-minimum-reverse-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2726-minimum-reverse-operations) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Graph
 |  |
@@ -244,6 +246,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -260,6 +263,7 @@
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -284,6 +288,7 @@
 | [3470-maximum-score-from-grid-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3470-maximum-score-from-grid-operations) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -291,6 +296,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Gaurav31U/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
