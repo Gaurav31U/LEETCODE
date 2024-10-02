@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Gaurav31U/LEETCODE/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Gaurav31U/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
@@ -587,6 +588,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Gaurav31U/LEETCODE/tree/master/0031-next-permutation) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
