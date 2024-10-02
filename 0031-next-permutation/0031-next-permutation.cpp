@@ -13,12 +13,12 @@ public:
                 while(!pq.empty()){
                     if(nums[i-1]<pq.top().first){
                         int e=pq.top().first;
-                        for(int j=i;j<n;j++){
-                            if(nums[j]==e){
-                                swap(nums[j],nums[i-1]);
-                                break;
-                            }
-                        }
+                        // for(int j=i;j<n;j++){
+                            // if(nums[j]==e){
+                                swap(nums[pq.top().second],nums[i-1]);
+                                // break;
+                            // }
+                        // }
                         sort(nums.begin()+i,nums.end());
                         break;
                     }    
