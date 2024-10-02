@@ -103,6 +103,7 @@
 | [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 | [2839-maximum-sum-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2839-maximum-sum-queries) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Gaurav31U/LEETCODE/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
@@ -270,6 +271,7 @@
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Gaurav31U/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3289-earliest-second-to-mark-indices-ii) |
@@ -379,6 +381,7 @@
 | [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2839-maximum-sum-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2839-maximum-sum-queries) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
@@ -578,6 +581,7 @@
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Gaurav31U/LEETCODE/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -642,6 +646,7 @@
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2839-maximum-sum-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2839-maximum-sum-queries) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Monotonic Stack
@@ -707,6 +712,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
+| [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Gaurav31U/LEETCODE/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
