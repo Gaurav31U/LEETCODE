@@ -194,6 +194,7 @@
 | [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Gaurav31U/LEETCODE/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -243,6 +244,7 @@
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Gaurav31U/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -421,6 +423,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Math
 |  |
 | ------- |
