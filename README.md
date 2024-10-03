@@ -144,6 +144,7 @@
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3470-maximum-score-from-grid-operations) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -423,6 +424,7 @@
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Bitmask
 |  |
@@ -542,6 +544,7 @@
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -566,6 +569,7 @@
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Monotonic Queue
@@ -708,6 +712,7 @@
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3470-maximum-score-from-grid-operations) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 ## Hash Table
