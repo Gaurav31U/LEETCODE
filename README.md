@@ -22,6 +22,7 @@
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0906-walking-robot-simulation](https://github.com/Gaurav31U/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
@@ -323,6 +324,7 @@
 | [0731-my-calendar-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0923-super-egg-drop](https://github.com/Gaurav31U/LEETCODE/tree/master/0923-super-egg-drop) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
@@ -370,6 +372,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
+| [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [1256-rank-transform-of-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/Gaurav31U/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
 | [1466-jump-game-v](https://github.com/Gaurav31U/LEETCODE/tree/master/1466-jump-game-v) |
@@ -450,6 +453,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0796-reaching-points](https://github.com/Gaurav31U/LEETCODE/tree/master/0796-reaching-points) |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
+| [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0923-super-egg-drop](https://github.com/Gaurav31U/LEETCODE/tree/master/0923-super-egg-drop) |
 | [1326-sum-of-floored-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/1326-sum-of-floored-pairs) |
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
@@ -706,6 +710,7 @@
 | [0126-word-ladder-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0432-all-oone-data-structure](https://github.com/Gaurav31U/LEETCODE/tree/master/0432-all-oone-data-structure) |
+| [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0906-walking-robot-simulation](https://github.com/Gaurav31U/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav31U/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
@@ -979,4 +984,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Gaurav31U/LEETCODE/tree/master/0432-all-oone-data-structure) |
+## Randomized
+|  |
+| ------- |
+| [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 <!---LeetCode Topics End-->
