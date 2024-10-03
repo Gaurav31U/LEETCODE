@@ -147,6 +147,7 @@
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3527-alternating-groups-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/3527-alternating-groups-iii) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
@@ -306,6 +307,7 @@
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3470-maximum-score-from-grid-operations) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -619,6 +621,7 @@
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/Gaurav31U/LEETCODE/tree/master/2701-subsequence-with-the-minimum-score) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
