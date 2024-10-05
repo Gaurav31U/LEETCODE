@@ -123,6 +123,7 @@
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gaurav31U/LEETCODE/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -429,6 +430,7 @@
 | [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Gaurav31U/LEETCODE/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -621,6 +623,7 @@
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Gaurav31U/LEETCODE/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
+| [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3402-minimum-cost-to-equalize-array) |
