@@ -198,6 +198,7 @@
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2569-number-of-beautiful-partitions](https://github.com/Gaurav31U/LEETCODE/tree/master/2569-number-of-beautiful-partitions) |
 | [2601-number-of-great-partitions](https://github.com/Gaurav31U/LEETCODE/tree/master/2601-number-of-great-partitions) |
@@ -818,6 +819,7 @@
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Gaurav31U/LEETCODE/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [2569-number-of-beautiful-partitions](https://github.com/Gaurav31U/LEETCODE/tree/master/2569-number-of-beautiful-partitions) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/Gaurav31U/LEETCODE/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
@@ -906,6 +908,7 @@
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
+| [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
@@ -922,6 +925,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
+| [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [3024-string-transformation](https://github.com/Gaurav31U/LEETCODE/tree/master/3024-string-transformation) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
@@ -935,6 +939,7 @@
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
+| [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
