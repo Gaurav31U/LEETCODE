@@ -147,6 +147,7 @@
 | [3438-peaks-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3438-peaks-in-array) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3460-count-the-number-of-inversions](https://github.com/Gaurav31U/LEETCODE/tree/master/3460-count-the-number-of-inversions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3470-maximum-score-from-grid-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -232,6 +233,7 @@
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3460-count-the-number-of-inversions](https://github.com/Gaurav31U/LEETCODE/tree/master/3460-count-the-number-of-inversions) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3470-maximum-score-from-grid-operations) |
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
