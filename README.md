@@ -13,6 +13,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0335-self-crossing](https://github.com/Gaurav31U/LEETCODE/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -1044,4 +1045,8 @@
 |  |
 | ------- |
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
