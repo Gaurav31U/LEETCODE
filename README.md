@@ -150,6 +150,7 @@
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3460-count-the-number-of-inversions](https://github.com/Gaurav31U/LEETCODE/tree/master/3460-count-the-number-of-inversions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3470-maximum-score-from-grid-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
@@ -384,6 +385,7 @@
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Gaurav31U/LEETCODE/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 ## Sorting
@@ -441,6 +443,7 @@
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3443-maximum-total-reward-using-operations-ii) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Bitmask
@@ -891,6 +894,7 @@
 | [3435-block-placement-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/3435-block-placement-queries) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3438-peaks-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3438-peaks-in-array) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Tree
 |  |
 | ------- |
