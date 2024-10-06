@@ -472,6 +472,7 @@
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0335-self-crossing](https://github.com/Gaurav31U/LEETCODE/tree/master/0335-self-crossing) |
+| [0479-largest-palindrome-product](https://github.com/Gaurav31U/LEETCODE/tree/master/0479-largest-palindrome-product) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
@@ -673,6 +674,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/Gaurav31U/LEETCODE/tree/master/0479-largest-palindrome-product) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2682-count-increasing-quadruplets](https://github.com/Gaurav31U/LEETCODE/tree/master/2682-count-increasing-quadruplets) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3402-minimum-cost-to-equalize-array) |
