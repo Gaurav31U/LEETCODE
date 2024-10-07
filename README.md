@@ -703,6 +703,7 @@
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Gaurav31U/LEETCODE/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2839-maximum-sum-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2839-maximum-sum-queries) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Gaurav31U/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
@@ -844,6 +845,7 @@
 | [2701-subsequence-with-the-minimum-score](https://github.com/Gaurav31U/LEETCODE/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2921-count-stepping-numbers-in-range](https://github.com/Gaurav31U/LEETCODE/tree/master/2921-count-stepping-numbers-in-range) |
 | [3024-string-transformation](https://github.com/Gaurav31U/LEETCODE/tree/master/3024-string-transformation) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Gaurav31U/LEETCODE/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -996,6 +998,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Gaurav31U/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
