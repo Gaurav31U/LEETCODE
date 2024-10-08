@@ -629,6 +629,7 @@
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurav31U/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2200-stamping-the-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2200-stamping-the-grid) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -663,6 +664,7 @@
 | [1881-closest-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1881-closest-subsequence-sum) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurav31U/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gaurav31U/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/Gaurav31U/LEETCODE/tree/master/2701-subsequence-with-the-minimum-score) |
@@ -708,6 +710,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurav31U/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Gaurav31U/LEETCODE/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
@@ -845,6 +848,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2091-number-of-ways-to-separate-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/2091-number-of-ways-to-separate-numbers) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurav31U/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Gaurav31U/LEETCODE/tree/master/2319-longest-substring-of-one-repeating-character) |
