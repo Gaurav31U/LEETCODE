@@ -250,6 +250,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0488-zuma-game](https://github.com/Gaurav31U/LEETCODE/tree/master/0488-zuma-game) |
+| [0685-redundant-connection-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0787-sliding-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -265,6 +266,7 @@
 ## Graph
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav31U/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -541,6 +543,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0386-lexicographical-numbers) |
+| [0685-redundant-connection-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav31U/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
@@ -559,6 +562,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav31U/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
