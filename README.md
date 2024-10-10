@@ -188,6 +188,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1277-largest-multiple-of-three](https://github.com/Gaurav31U/LEETCODE/tree/master/1277-largest-multiple-of-three) |
 | [1290-make-array-strictly-increasing](https://github.com/Gaurav31U/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Gaurav31U/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Gaurav31U/LEETCODE/tree/master/1466-jump-game-v) |
@@ -257,6 +258,7 @@
 | [0787-sliding-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gaurav31U/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -355,6 +357,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [1290-make-array-strictly-increasing](https://github.com/Gaurav31U/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1326-sum-of-floored-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/1326-sum-of-floored-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Gaurav31U/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Gaurav31U/LEETCODE/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -549,6 +552,7 @@
 | [0685-redundant-connection-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav31U/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gaurav31U/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -897,6 +901,7 @@
 | [0729-my-calendar-i](https://github.com/Gaurav31U/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [1270-dinner-plate-stacks](https://github.com/Gaurav31U/LEETCODE/tree/master/1270-dinner-plate-stacks) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Gaurav31U/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
@@ -927,6 +932,7 @@
 ## Tree
 |  |
 | ------- |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
