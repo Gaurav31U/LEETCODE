@@ -16,6 +16,7 @@ public:
             if(*st.begin()+b<=budget){
                 found=true;
             }
+            if(found)return found;
             for(int i=m;i<n;i++){
                 st.erase(st.find(chargeTimes[i-m]));
                 st.insert(chargeTimes[i]);
@@ -24,6 +25,7 @@ public:
                 if(*st.begin()+b<=budget){
                     found=true;
                 }
+                if(found)return found;
             }
             return found;
         };
