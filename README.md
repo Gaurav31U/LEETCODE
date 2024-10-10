@@ -26,6 +26,7 @@
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0906-walking-robot-simulation](https://github.com/Gaurav31U/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/0921-spiral-matrix-iii) |
+| [1002-maximum-width-ramp](https://github.com/Gaurav31U/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Gaurav31U/LEETCODE/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
@@ -708,6 +709,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0488-zuma-game](https://github.com/Gaurav31U/LEETCODE/tree/master/0488-zuma-game) |
+| [1002-maximum-width-ramp](https://github.com/Gaurav31U/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1270-dinner-plate-stacks](https://github.com/Gaurav31U/LEETCODE/tree/master/1270-dinner-plate-stacks) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Gaurav31U/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -730,6 +732,7 @@
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
+| [1002-maximum-width-ramp](https://github.com/Gaurav31U/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
