@@ -219,6 +219,7 @@
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
+| [2757-count-of-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/2757-count-of-integers) |
 | [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2921-count-stepping-numbers-in-range](https://github.com/Gaurav31U/LEETCODE/tree/master/2921-count-stepping-numbers-in-range) |
@@ -509,6 +510,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2605-count-anagrams](https://github.com/Gaurav31U/LEETCODE/tree/master/2605-count-anagrams) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Gaurav31U/LEETCODE/tree/master/2647-split-the-array-to-make-coprime-products) |
+| [2757-count-of-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/2757-count-of-integers) |
 | [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Gaurav31U/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
@@ -878,6 +880,7 @@
 | [2701-subsequence-with-the-minimum-score](https://github.com/Gaurav31U/LEETCODE/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
+| [2757-count-of-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/2757-count-of-integers) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2921-count-stepping-numbers-in-range](https://github.com/Gaurav31U/LEETCODE/tree/master/2921-count-stepping-numbers-in-range) |
 | [3024-string-transformation](https://github.com/Gaurav31U/LEETCODE/tree/master/3024-string-transformation) |
