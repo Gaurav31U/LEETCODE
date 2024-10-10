@@ -24,13 +24,9 @@ public:
         return (ans+(sum>=0))%M;
     }
     int count(string num1, string num2, int min_sum, int max_sum) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
         if(init) {
             init=0;
-            for(int i=0, j; i<23;  ++i) {
-                for(j=0; j<=400; dp[i][j++]=-1) {}
-            }
+            memset(dp,-1,sizeof(dp));
         }
         for(int i=num1.size()-1, j=22, carry=1; j>=0; --j) {
             a[j]=i>=0? num1[i--]-'0' : 0;
