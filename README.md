@@ -51,6 +51,7 @@
 | [1583-paint-house-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1583-paint-house-iii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1638-best-position-for-a-service-centre](https://github.com/Gaurav31U/LEETCODE/tree/master/1638-best-position-for-a-service-centre) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gaurav31U/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1680-count-all-possible-routes](https://github.com/Gaurav31U/LEETCODE/tree/master/1680-count-all-possible-routes) |
@@ -497,6 +498,7 @@
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
 | [1326-sum-of-floored-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/1326-sum-of-floored-pairs) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
+| [1638-best-position-for-a-service-centre](https://github.com/Gaurav31U/LEETCODE/tree/master/1638-best-position-for-a-service-centre) |
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/Gaurav31U/LEETCODE/tree/master/1936-maximize-number-of-nice-divisors) |
@@ -1062,6 +1064,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/Gaurav31U/LEETCODE/tree/master/0335-self-crossing) |
+| [1638-best-position-for-a-service-centre](https://github.com/Gaurav31U/LEETCODE/tree/master/1638-best-position-for-a-service-centre) |
 | [3344-minimize-manhattan-distances](https://github.com/Gaurav31U/LEETCODE/tree/master/3344-minimize-manhattan-distances) |
 ## Recursion
 |  |
@@ -1086,6 +1089,7 @@
 |  |
 | ------- |
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
+| [1638-best-position-for-a-service-centre](https://github.com/Gaurav31U/LEETCODE/tree/master/1638-best-position-for-a-service-centre) |
 ## Line Sweep
 |  |
 | ------- |
