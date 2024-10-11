@@ -272,6 +272,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gaurav31U/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2344-escape-the-spreading-fire](https://github.com/Gaurav31U/LEETCODE/tree/master/2344-escape-the-spreading-fire) |
@@ -289,6 +290,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav31U/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Gaurav31U/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
 | [1587-parallel-courses-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1587-parallel-courses-ii) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
@@ -580,6 +582,7 @@
 | [1106-escape-a-large-maze](https://github.com/Gaurav31U/LEETCODE/tree/master/1106-escape-a-large-maze) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gaurav31U/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -974,6 +977,7 @@
 | ------- |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
