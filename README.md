@@ -205,6 +205,7 @@
 | [1587-parallel-courses-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1587-parallel-courses-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gaurav31U/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Gaurav31U/LEETCODE/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1680-count-all-possible-routes](https://github.com/Gaurav31U/LEETCODE/tree/master/1680-count-all-possible-routes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -490,6 +491,7 @@
 | [0488-zuma-game](https://github.com/Gaurav31U/LEETCODE/tree/master/0488-zuma-game) |
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Gaurav31U/LEETCODE/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Gaurav31U/LEETCODE/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1680-count-all-possible-routes](https://github.com/Gaurav31U/LEETCODE/tree/master/1680-count-all-possible-routes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
