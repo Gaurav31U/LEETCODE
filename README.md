@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Gaurav31U/LEETCODE/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Gaurav31U/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav31U/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -414,6 +415,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
