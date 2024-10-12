@@ -948,6 +948,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -1037,6 +1038,7 @@
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 ## Suffix Array
@@ -1055,6 +1057,7 @@
 | [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [3024-string-transformation](https://github.com/Gaurav31U/LEETCODE/tree/master/3024-string-transformation) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 ## Hash Function
@@ -1068,6 +1071,7 @@
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 ## Trie
