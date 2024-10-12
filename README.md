@@ -70,6 +70,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Gaurav31U/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Gaurav31U/LEETCODE/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2105-the-number-of-good-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2105-the-number-of-good-subsets) |
@@ -314,6 +315,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Gaurav31U/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Gaurav31U/LEETCODE/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Gaurav31U/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Gaurav31U/LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
@@ -846,6 +848,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Gaurav31U/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Gaurav31U/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gaurav31U/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
