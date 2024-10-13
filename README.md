@@ -18,6 +18,7 @@
 | [0391-perfect-rectangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Gaurav31U/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0731-my-calendar-ii) |
@@ -314,6 +315,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1270-dinner-plate-stacks](https://github.com/Gaurav31U/LEETCODE/tree/master/1270-dinner-plate-stacks) |
@@ -442,6 +444,7 @@
 | [0056-merge-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [1256-rank-transform-of-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/Gaurav31U/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
@@ -644,6 +647,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Gaurav31U/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
@@ -684,6 +688,7 @@
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1277-largest-multiple-of-three](https://github.com/Gaurav31U/LEETCODE/tree/master/1277-largest-multiple-of-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -846,6 +851,7 @@
 | [0126-word-ladder-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0432-all-oone-data-structure](https://github.com/Gaurav31U/LEETCODE/tree/master/0432-all-oone-data-structure) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0906-walking-robot-simulation](https://github.com/Gaurav31U/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav31U/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
