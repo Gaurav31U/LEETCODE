@@ -71,6 +71,7 @@
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+| [1968-maximum-building-height](https://github.com/Gaurav31U/LEETCODE/tree/master/1968-maximum-building-height) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Gaurav31U/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -456,6 +457,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gaurav31U/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1968-maximum-building-height](https://github.com/Gaurav31U/LEETCODE/tree/master/1968-maximum-building-height) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
@@ -552,6 +554,7 @@
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/Gaurav31U/LEETCODE/tree/master/1936-maximize-number-of-nice-divisors) |
+| [1968-maximum-building-height](https://github.com/Gaurav31U/LEETCODE/tree/master/1968-maximum-building-height) |
 | [2105-the-number-of-good-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2105-the-number-of-good-subsets) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2155-find-missing-observations](https://github.com/Gaurav31U/LEETCODE/tree/master/2155-find-missing-observations) |
