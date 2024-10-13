@@ -51,12 +51,8 @@ public:
             b.push_back(node);
             node=par[node];
         }
-        // for(auto it:a)cout<<it<<" ";
-        // cout<<"\n";
-        // for(auto it:b)cout<<it<<" ";
         ed.push_back(a[a.size()/2]);
         ed.push_back(b[b.size()/2]);
-        // cout<<ed[0]<<" "<<ed[1];
         adj[ed[0]].push_back(ed[1]);
         adj[ed[1]].push_back(ed[0]);
         memset(vis,0,sizeof(vis));
@@ -66,7 +62,5 @@ public:
         memset(vis,0,sizeof(vis));
         dfs(node,-1,0);
         return dis;
-        
-        
     }
 };
