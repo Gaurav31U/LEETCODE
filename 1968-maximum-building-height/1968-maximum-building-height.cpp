@@ -5,6 +5,7 @@ public:
         arr.push_back({n, n - 1});
         sort(arr.begin(), arr.end());
         int m = arr.size();
+        // dp
         for (int i = 1; i < m; ++i)
             arr[i][1] = min(arr[i][1], arr[i-1][1] + arr[i][0] - arr[i-1][0]);
         for (int i = m - 2; i >= 0; --i)
