@@ -20,12 +20,7 @@ public:
         if( k == 2 ) return 4;
         int bit = __builtin_popcount(k);
         int count = 0;
-        int l = k;
-        while(l) {
-            count++;
-            l = l >> 1;
-        }  
-        l=count;
+        int l = ceil(log2(k+1));
         int u = 1LL<<l;
         int n = l + 1;
         int r = u - k;
