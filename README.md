@@ -144,6 +144,7 @@
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
+| [3224-count-the-number-of-infection-sequences](https://github.com/Gaurav31U/LEETCODE/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
@@ -581,6 +582,7 @@
 | [3024-string-transformation](https://github.com/Gaurav31U/LEETCODE/tree/master/3024-string-transformation) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Gaurav31U/LEETCODE/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3208-count-beautiful-substrings-ii) |
+| [3224-count-the-number-of-infection-sequences](https://github.com/Gaurav31U/LEETCODE/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3344-minimize-manhattan-distances](https://github.com/Gaurav31U/LEETCODE/tree/master/3344-minimize-manhattan-distances) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -1128,6 +1130,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2605-count-anagrams](https://github.com/Gaurav31U/LEETCODE/tree/master/2605-count-anagrams) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Gaurav31U/LEETCODE/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3224-count-the-number-of-infection-sequences](https://github.com/Gaurav31U/LEETCODE/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Gaurav31U/LEETCODE/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
