@@ -11,6 +11,7 @@
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Gaurav31U/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0327-count-of-range-sum) |
@@ -195,6 +196,7 @@
 | [0118-pascals-triangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav31U/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0466-count-the-repetitions](https://github.com/Gaurav31U/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0488-zuma-game](https://github.com/Gaurav31U/LEETCODE/tree/master/0488-zuma-game) |
 | [0639-decode-ways-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0639-decode-ways-ii) |
@@ -388,6 +390,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
