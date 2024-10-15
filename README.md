@@ -230,6 +230,7 @@
 | [2105-the-number-of-good-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2105-the-number-of-good-subsets) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/Gaurav31U/LEETCODE/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
@@ -849,6 +850,7 @@
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2200-stamping-the-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2200-stamping-the-grid) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurav31U/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/Gaurav31U/LEETCODE/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Gaurav31U/LEETCODE/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Gaurav31U/LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -964,6 +966,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurav31U/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/Gaurav31U/LEETCODE/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Gaurav31U/LEETCODE/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
