@@ -213,6 +213,7 @@
 | [1290-make-array-strictly-increasing](https://github.com/Gaurav31U/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Gaurav31U/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Gaurav31U/LEETCODE/tree/master/1466-jump-game-v) |
 | [1503-reducing-dishes](https://github.com/Gaurav31U/LEETCODE/tree/master/1503-reducing-dishes) |
@@ -974,6 +975,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Gaurav31U/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Gaurav31U/LEETCODE/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/Gaurav31U/LEETCODE/tree/master/1897-maximize-palindrome-length-from-subsequences) |
