@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Gaurav31U/LEETCODE/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/Gaurav31U/LEETCODE/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Gaurav31U/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -613,6 +614,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Gaurav31U/LEETCODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
