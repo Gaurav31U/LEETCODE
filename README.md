@@ -321,6 +321,7 @@
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Gaurav31U/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Gaurav31U/LEETCODE/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Gaurav31U/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
@@ -347,6 +348,7 @@
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Gaurav31U/LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Gaurav31U/LEETCODE/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Gaurav31U/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
@@ -396,6 +398,7 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Gaurav31U/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Gaurav31U/LEETCODE/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Gaurav31U/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -1031,6 +1034,7 @@
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
 | [2357-count-integers-in-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/2357-count-integers-in-intervals) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2380-booking-concert-tickets-in-groups) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Gaurav31U/LEETCODE/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Segment Tree
 |  |
 | ------- |
