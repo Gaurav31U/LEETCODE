@@ -101,6 +101,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Gaurav31U/LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Gaurav31U/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Gaurav31U/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -313,6 +314,7 @@
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Gaurav31U/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Gaurav31U/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
@@ -370,6 +372,7 @@
 | [2344-escape-the-spreading-fire](https://github.com/Gaurav31U/LEETCODE/tree/master/2344-escape-the-spreading-fire) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/2411-spiral-matrix-iv) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Gaurav31U/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -640,6 +643,7 @@
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Gaurav31U/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
 | ------- |
