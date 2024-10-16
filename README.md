@@ -501,6 +501,7 @@
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gaurav31U/LEETCODE/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3344-minimize-manhattan-distances](https://github.com/Gaurav31U/LEETCODE/tree/master/3344-minimize-manhattan-distances) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
 ## Bit Manipulation
 |  |
@@ -651,6 +652,7 @@
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Gaurav31U/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
 ## Topological Sort
 |  |
@@ -1073,6 +1075,7 @@
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Gaurav31U/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
 ## Binary Search Tree
 |  |
@@ -1083,6 +1086,7 @@
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Counting
 |  |
 | ------- |
