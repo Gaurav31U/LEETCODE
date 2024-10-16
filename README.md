@@ -604,6 +604,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
