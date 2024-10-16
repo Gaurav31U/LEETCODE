@@ -316,6 +316,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
 | [1587-parallel-courses-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1587-parallel-courses-ii) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Gaurav31U/LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -660,6 +661,7 @@
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0821-bricks-falling-when-hit](https://github.com/Gaurav31U/LEETCODE/tree/master/0821-bricks-falling-when-hit) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav31U/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Gaurav31U/LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
