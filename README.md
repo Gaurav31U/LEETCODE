@@ -218,6 +218,7 @@
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Gaurav31U/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Gaurav31U/LEETCODE/tree/master/1466-jump-game-v) |
 | [1503-reducing-dishes](https://github.com/Gaurav31U/LEETCODE/tree/master/1503-reducing-dishes) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Gaurav31U/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Gaurav31U/LEETCODE/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Gaurav31U/LEETCODE/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -870,6 +871,7 @@
 | [1326-sum-of-floored-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/1326-sum-of-floored-pairs) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Gaurav31U/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Gaurav31U/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1694-make-sum-divisible-by-p](https://github.com/Gaurav31U/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
