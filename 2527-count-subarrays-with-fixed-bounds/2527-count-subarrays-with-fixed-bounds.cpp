@@ -72,7 +72,6 @@ public:
                 }
             }   
         }
-        // for(auto it:nums)cout<<it<<" ";
         return ans;
     }
 };
