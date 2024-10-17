@@ -1,9 +1,3 @@
-static const int _ = [](){
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 0;
-}();
 class Solution {
 public:
     int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
