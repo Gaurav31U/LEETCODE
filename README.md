@@ -121,6 +121,7 @@
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Gaurav31U/LEETCODE/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [2681-put-marbles-in-bags](https://github.com/Gaurav31U/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2682-count-increasing-quadruplets](https://github.com/Gaurav31U/LEETCODE/tree/master/2682-count-increasing-quadruplets) |
 | [2689-rearranging-fruits](https://github.com/Gaurav31U/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
@@ -353,6 +354,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Gaurav31U/LEETCODE/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2681-put-marbles-in-bags](https://github.com/Gaurav31U/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Gaurav31U/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
@@ -494,6 +496,7 @@
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gaurav31U/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [2681-put-marbles-in-bags](https://github.com/Gaurav31U/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
 | [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -759,6 +762,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Gaurav31U/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [2681-put-marbles-in-bags](https://github.com/Gaurav31U/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Gaurav31U/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
