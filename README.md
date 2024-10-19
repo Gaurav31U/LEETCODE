@@ -1011,6 +1011,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Gaurav31U/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Gaurav31U/LEETCODE/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/Gaurav31U/LEETCODE/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 | [1923-sentence-similarity-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -1200,6 +1201,7 @@
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/Gaurav31U/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/0921-spiral-matrix-iii) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Gaurav31U/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/2411-spiral-matrix-iv) |
@@ -1242,6 +1244,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/Gaurav31U/LEETCODE/tree/master/1936-maximize-number-of-nice-divisors) |
 ## Merge Sort
 |  |
