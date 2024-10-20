@@ -584,6 +584,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0335-self-crossing](https://github.com/Gaurav31U/LEETCODE/tree/master/0335-self-crossing) |
@@ -1257,6 +1258,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
