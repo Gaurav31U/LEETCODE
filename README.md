@@ -1070,6 +1070,7 @@
 | [0732-my-calendar-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/0732-my-calendar-iii) |
 | [1270-dinner-plate-stacks](https://github.com/Gaurav31U/LEETCODE/tree/master/1270-dinner-plate-stacks) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1337-design-skiplist](https://github.com/Gaurav31U/LEETCODE/tree/master/1337-design-skiplist) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Gaurav31U/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
@@ -1232,6 +1233,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Gaurav31U/LEETCODE/tree/master/0432-all-oone-data-structure) |
+| [1337-design-skiplist](https://github.com/Gaurav31U/LEETCODE/tree/master/1337-design-skiplist) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Gaurav31U/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
