@@ -29,6 +29,7 @@
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0821-bricks-falling-when-hit](https://github.com/Gaurav31U/LEETCODE/tree/master/0821-bricks-falling-when-hit) |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Gaurav31U/LEETCODE/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0906-walking-robot-simulation](https://github.com/Gaurav31U/LEETCODE/tree/master/0906-walking-robot-simulation) |
@@ -355,6 +356,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Gaurav31U/LEETCODE/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1270-dinner-plate-stacks](https://github.com/Gaurav31U/LEETCODE/tree/master/1270-dinner-plate-stacks) |
 | [1304-longest-happy-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1304-longest-happy-string) |
@@ -495,6 +497,7 @@
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Gaurav31U/LEETCODE/tree/master/0726-number-of-atoms) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Gaurav31U/LEETCODE/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0935-orderly-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/0935-orderly-queue) |
 | [1256-rank-transform-of-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
@@ -771,6 +774,7 @@
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0376-wiggle-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Gaurav31U/LEETCODE/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1277-largest-multiple-of-three](https://github.com/Gaurav31U/LEETCODE/tree/master/1277-largest-multiple-of-three) |
 | [1304-longest-happy-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1304-longest-happy-string) |
 | [1503-reducing-dishes](https://github.com/Gaurav31U/LEETCODE/tree/master/1503-reducing-dishes) |
