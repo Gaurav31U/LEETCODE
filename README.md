@@ -57,6 +57,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Gaurav31U/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1503-reducing-dishes](https://github.com/Gaurav31U/LEETCODE/tree/master/1503-reducing-dishes) |
+| [1522-stone-game-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1522-stone-game-iii) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Gaurav31U/LEETCODE/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Gaurav31U/LEETCODE/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Gaurav31U/LEETCODE/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -226,6 +227,7 @@
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Gaurav31U/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Gaurav31U/LEETCODE/tree/master/1466-jump-game-v) |
 | [1503-reducing-dishes](https://github.com/Gaurav31U/LEETCODE/tree/master/1503-reducing-dishes) |
+| [1522-stone-game-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1522-stone-game-iii) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Gaurav31U/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Gaurav31U/LEETCODE/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Gaurav31U/LEETCODE/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -607,6 +609,7 @@
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
 | [1326-sum-of-floored-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/1326-sum-of-floored-pairs) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
+| [1522-stone-game-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1522-stone-game-iii) |
 | [1638-best-position-for-a-service-centre](https://github.com/Gaurav31U/LEETCODE/tree/master/1638-best-position-for-a-service-centre) |
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
@@ -1283,6 +1286,7 @@
 |  |
 | ------- |
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
+| [1522-stone-game-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1522-stone-game-iii) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Doubly-Linked List
 |  |
