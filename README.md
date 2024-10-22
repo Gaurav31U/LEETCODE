@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Gaurav31U/LEETCODE/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Gaurav31U/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Gaurav31U/LEETCODE/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/0056-merge-intervals) |
@@ -386,6 +387,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Gaurav31U/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Gaurav31U/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
 | [0787-sliding-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/0787-sliding-puzzle) |
@@ -651,6 +653,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Gaurav31U/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Gaurav31U/LEETCODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0126-word-ladder-ii) |
@@ -949,6 +952,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Gaurav31U/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Gaurav31U/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Gaurav31U/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
