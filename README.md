@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Gaurav31U/LEETCODE/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Gaurav31U/LEETCODE/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Gaurav31U/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0118-pascals-triangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav31U/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -813,6 +815,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Gaurav31U/LEETCODE/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Gaurav31U/LEETCODE/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -865,6 +868,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0488-zuma-game](https://github.com/Gaurav31U/LEETCODE/tree/master/0488-zuma-game) |
 | [0726-number-of-atoms](https://github.com/Gaurav31U/LEETCODE/tree/master/0726-number-of-atoms) |
@@ -892,6 +896,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [1002-maximum-width-ramp](https://github.com/Gaurav31U/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/1305-number-of-visible-people-in-a-queue) |
