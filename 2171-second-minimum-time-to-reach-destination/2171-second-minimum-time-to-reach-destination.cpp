@@ -18,7 +18,7 @@ public:
             pq.pop();
             int d=it.first;
             int s=it.second;
-            if((d/c)%2!=0)d=c+(c*(d/c));
+            if((d/c)%2!=0)d=c+(c*(d/c));  // Important
             int time=d;
             for(auto i: g[s]){
                 if(dis[i][0]>time+t){
