@@ -1043,6 +1043,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 | [0639-decode-ways-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0639-decode-ways-ii) |
 | [0726-number-of-atoms](https://github.com/Gaurav31U/LEETCODE/tree/master/0726-number-of-atoms) |
+| [0763-special-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/0763-special-binary-string) |
 | [0935-orderly-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/0935-orderly-queue) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Gaurav31U/LEETCODE/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -1295,6 +1296,7 @@
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
+| [0763-special-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/0763-special-binary-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/Gaurav31U/LEETCODE/tree/master/1936-maximize-number-of-nice-divisors) |
