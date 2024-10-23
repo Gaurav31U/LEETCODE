@@ -768,6 +768,7 @@
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Monotonic Queue
@@ -1010,6 +1011,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -1094,6 +1096,7 @@
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Gaurav31U/LEETCODE/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
