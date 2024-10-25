@@ -205,6 +205,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Gaurav31U/LEETCODE/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -575,6 +576,7 @@
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Bitmask
 |  |
 | ------- |
