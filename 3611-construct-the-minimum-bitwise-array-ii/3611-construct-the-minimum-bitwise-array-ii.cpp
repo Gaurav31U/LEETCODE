@@ -1,15 +1,7 @@
 class Solution {
 public:
-    void fun(int a){
-        if(a==0)return;
-        fun(a>>1);
-        cout<<(a&1)<<" ";
-    }
     vector<int> minBitwiseArray(vector<int>& nums) {
         vector<int> ans;
-        // fun(47);
-        // cout<<"\n";
-        // fun(39);
         for(int i=0;i<nums.size();i++){
             int p=nums[i]&(nums[i]+1);
             if(p==0){
@@ -25,7 +17,6 @@ public:
             int a=nums[i]&(nums[i]-1);
             if(a==0){
                 ans.push_back(-1);
-
             }else{
                 int b=a-1;
                 if((b|(b+1))==nums[i])
