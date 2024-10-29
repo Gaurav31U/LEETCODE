@@ -142,6 +142,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
 | [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/2832-find-the-longest-equal-subarray) |
 | [2839-maximum-sum-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2839-maximum-sum-queries) |
@@ -270,6 +271,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2757-count-of-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/2757-count-of-integers) |
 | [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2921-count-stepping-numbers-in-range](https://github.com/Gaurav31U/LEETCODE/tree/master/2921-count-stepping-numbers-in-range) |
 | [2952-minimum-time-to-make-array-sum-at-most-x](https://github.com/Gaurav31U/LEETCODE/tree/master/2952-minimum-time-to-make-array-sum-at-most-x) |
@@ -418,6 +420,7 @@
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3107-maximum-spending-after-buying-items](https://github.com/Gaurav31U/LEETCODE/tree/master/3107-maximum-spending-after-buying-items) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
