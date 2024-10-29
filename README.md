@@ -141,6 +141,7 @@
 | [2726-minimum-reverse-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2726-minimum-reverse-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -270,6 +271,7 @@
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
 | [2755-extra-characters-in-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2757-count-of-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/2757-count-of-integers) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2784-power-of-heroes](https://github.com/Gaurav31U/LEETCODE/tree/master/2784-power-of-heroes) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -822,6 +824,7 @@
 | [2689-rearranging-fruits](https://github.com/Gaurav31U/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2708-find-the-string-with-lcp](https://github.com/Gaurav31U/LEETCODE/tree/master/2708-find-the-string-with-lcp) |
 | [2765-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/2765-make-array-empty) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2894-maximum-elegance-of-a-k-length-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/2894-maximum-elegance-of-a-k-length-subsequence) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/Gaurav31U/LEETCODE/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Gaurav31U/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1169,6 +1172,7 @@
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Gaurav31U/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
@@ -1183,6 +1187,7 @@
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Counting
 |  |
