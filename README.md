@@ -234,6 +234,7 @@
 | [1290-make-array-strictly-increasing](https://github.com/Gaurav31U/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1403-palindrome-partitioning-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Gaurav31U/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Gaurav31U/LEETCODE/tree/master/1466-jump-game-v) |
@@ -1079,6 +1080,7 @@
 | [1304-longest-happy-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1304-longest-happy-string) |
 | [1336-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/1336-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1403-palindrome-partitioning-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1403-palindrome-partitioning-iii) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
