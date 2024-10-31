@@ -229,6 +229,7 @@
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0923-super-egg-drop](https://github.com/Gaurav31U/LEETCODE/tree/master/0923-super-egg-drop) |
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
+| [0956-number-of-music-playlists](https://github.com/Gaurav31U/LEETCODE/tree/master/0956-number-of-music-playlists) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1277-largest-multiple-of-three](https://github.com/Gaurav31U/LEETCODE/tree/master/1277-largest-multiple-of-three) |
@@ -637,6 +638,7 @@
 | [0923-super-egg-drop](https://github.com/Gaurav31U/LEETCODE/tree/master/0923-super-egg-drop) |
 | [0935-orderly-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/0935-orderly-queue) |
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
+| [0956-number-of-music-playlists](https://github.com/Gaurav31U/LEETCODE/tree/master/0956-number-of-music-playlists) |
 | [1326-sum-of-floored-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/1326-sum-of-floored-pairs) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1522-stone-game-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1522-stone-game-iii) |
@@ -1276,6 +1278,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0956-number-of-music-playlists](https://github.com/Gaurav31U/LEETCODE/tree/master/0956-number-of-music-playlists) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2605-count-anagrams](https://github.com/Gaurav31U/LEETCODE/tree/master/2605-count-anagrams) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Gaurav31U/LEETCODE/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
