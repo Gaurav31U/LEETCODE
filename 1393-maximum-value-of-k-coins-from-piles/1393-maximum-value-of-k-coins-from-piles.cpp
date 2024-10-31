@@ -19,6 +19,7 @@ public:
             for(int j=0;j<piles[i].size();j++){
                 if(j+1<=k)
                 ans=max(ans,piles[i][j]+getans(getans,i+1,p-j-1));
+                else break;
             }
             return dp[i][p]=ans;
         };
