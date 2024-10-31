@@ -125,6 +125,7 @@
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2554-minimum-total-distance-traveled](https://github.com/Gaurav31U/LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gaurav31U/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2601-number-of-great-partitions](https://github.com/Gaurav31U/LEETCODE/tree/master/2601-number-of-great-partitions) |
@@ -270,6 +271,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
+| [2554-minimum-total-distance-traveled](https://github.com/Gaurav31U/LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
 | [2569-number-of-beautiful-partitions](https://github.com/Gaurav31U/LEETCODE/tree/master/2569-number-of-beautiful-partitions) |
 | [2601-number-of-great-partitions](https://github.com/Gaurav31U/LEETCODE/tree/master/2601-number-of-great-partitions) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
@@ -539,6 +541,7 @@
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2554-minimum-total-distance-traveled](https://github.com/Gaurav31U/LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gaurav31U/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Gaurav31U/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
