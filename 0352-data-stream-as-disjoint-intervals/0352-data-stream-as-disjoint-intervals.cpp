@@ -1,6 +1,4 @@
 class SummaryRanges {
- 
- 
 public:
     set<int>st;
     SummaryRanges() {}
