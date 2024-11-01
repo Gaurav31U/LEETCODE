@@ -306,6 +306,7 @@
 | [3024-string-transformation](https://github.com/Gaurav31U/LEETCODE/tree/master/3024-string-transformation) |
 | [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/Gaurav31U/LEETCODE/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Gaurav31U/LEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
@@ -356,6 +357,7 @@
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2726-minimum-reverse-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2726-minimum-reverse-operations) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Gaurav31U/LEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Gaurav31U/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
@@ -383,6 +385,7 @@
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Gaurav31U/LEETCODE/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Gaurav31U/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Gaurav31U/LEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
@@ -750,6 +753,7 @@
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Gaurav31U/LEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Gaurav31U/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
