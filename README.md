@@ -78,6 +78,7 @@
 | [1680-count-all-possible-routes](https://github.com/Gaurav31U/LEETCODE/tree/master/1680-count-all-possible-routes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gaurav31U/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Gaurav31U/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
+| [1696-strange-printer-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1696-strange-printer-ii) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -360,6 +361,7 @@
 | [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
 | [1587-parallel-courses-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1587-parallel-courses-ii) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1696-strange-printer-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1696-strange-printer-ii) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Gaurav31U/LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Gaurav31U/LEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -424,6 +426,7 @@
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Gaurav31U/LEETCODE/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Gaurav31U/LEETCODE/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gaurav31U/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1696-strange-printer-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1696-strange-printer-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/Gaurav31U/LEETCODE/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -738,6 +741,7 @@
 | ------- |
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Gaurav31U/LEETCODE/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1696-strange-printer-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1696-strange-printer-ii) |
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Gaurav31U/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
