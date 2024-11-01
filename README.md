@@ -255,6 +255,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1583-paint-house-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1583-paint-house-iii) |
 | [1587-parallel-courses-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1587-parallel-courses-ii) |
+| [1617-stone-game-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/1617-stone-game-iv) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gaurav31U/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Gaurav31U/LEETCODE/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
@@ -653,6 +654,7 @@
 | [1372-check-if-it-is-a-good-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1372-check-if-it-is-a-good-array) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1522-stone-game-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/1617-stone-game-iv) |
 | [1638-best-position-for-a-service-centre](https://github.com/Gaurav31U/LEETCODE/tree/master/1638-best-position-for-a-service-centre) |
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
@@ -1367,6 +1369,7 @@
 | ------- |
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
 | [1522-stone-game-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/1617-stone-game-iv) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Doubly-Linked List
 |  |
