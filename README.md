@@ -227,6 +227,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Gaurav31U/LEETCODE/tree/master/0312-burst-balloons) |
 | [0376-wiggle-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0376-wiggle-subsequence) |
+| [0458-poor-pigs](https://github.com/Gaurav31U/LEETCODE/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/Gaurav31U/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0488-zuma-game](https://github.com/Gaurav31U/LEETCODE/tree/master/0488-zuma-game) |
 | [0639-decode-ways-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0639-decode-ways-ii) |
@@ -638,6 +639,7 @@
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0335-self-crossing](https://github.com/Gaurav31U/LEETCODE/tree/master/0335-self-crossing) |
+| [0458-poor-pigs](https://github.com/Gaurav31U/LEETCODE/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/Gaurav31U/LEETCODE/tree/master/0479-largest-palindrome-product) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
@@ -1294,6 +1296,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/Gaurav31U/LEETCODE/tree/master/0458-poor-pigs) |
 | [0956-number-of-music-playlists](https://github.com/Gaurav31U/LEETCODE/tree/master/0956-number-of-music-playlists) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2605-count-anagrams](https://github.com/Gaurav31U/LEETCODE/tree/master/2605-count-anagrams) |
