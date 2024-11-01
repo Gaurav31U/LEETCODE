@@ -37,6 +37,7 @@
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0906-walking-robot-simulation](https://github.com/Gaurav31U/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/0921-spiral-matrix-iii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1002-maximum-width-ramp](https://github.com/Gaurav31U/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
@@ -239,6 +240,7 @@
 | [0923-super-egg-drop](https://github.com/Gaurav31U/LEETCODE/tree/master/0923-super-egg-drop) |
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
 | [0956-number-of-music-playlists](https://github.com/Gaurav31U/LEETCODE/tree/master/0956-number-of-music-playlists) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -1108,6 +1110,7 @@
 | [0726-number-of-atoms](https://github.com/Gaurav31U/LEETCODE/tree/master/0726-number-of-atoms) |
 | [0763-special-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/0763-special-binary-string) |
 | [0935-orderly-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/0935-orderly-queue) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Gaurav31U/LEETCODE/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1170-shortest-common-supersequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1170-shortest-common-supersequence) |
