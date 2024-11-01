@@ -247,6 +247,7 @@
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Gaurav31U/LEETCODE/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1403-palindrome-partitioning-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gaurav31U/LEETCODE/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Gaurav31U/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Gaurav31U/LEETCODE/tree/master/1466-jump-game-v) |
 | [1503-reducing-dishes](https://github.com/Gaurav31U/LEETCODE/tree/master/1503-reducing-dishes) |
@@ -1110,6 +1111,7 @@
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gaurav31U/LEETCODE/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Gaurav31U/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Gaurav31U/LEETCODE/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
