@@ -1,5 +1,5 @@
 class Solution {
-const vector<int> delta = {-1, 0, 1, 0};
+    const vector<int> delta = {-1, 0, 1, 0};
     unordered_map<int, int> low, tin;
     int timer = 0;
     bool articulation_point = false;
@@ -28,12 +28,12 @@ public:
     int minDays(vector<vector<int>>& grid) {
         const int n = grid.size(), m = grid[0].size();
         const int V = n * m;
-        unordered_map<int, vector<int>> adj;
+        unordered_map<int, vector<int>> adj;   // Creating adj list Graph From Grid
         int vertex_count = 0;
         for(int i = 0; i < n; i++)
             for(int j = 0; j < m; j++)
                 if(grid[i][j]) {
-                    int id = i * m + j;
+                    int id = i * m + j;  // assigning ID
                     adj[id] = {};
                     for(int k = 0; k < 4; k++) {
                         int r = i + delta[k], c = j + delta[(k+1) % 4]; 
