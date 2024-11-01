@@ -369,6 +369,7 @@
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0685-redundant-connection-ii) |
+| [0754-cracking-the-safe](https://github.com/Gaurav31U/LEETCODE/tree/master/0754-cracking-the-safe) |
 | [0770-couples-holding-hands](https://github.com/Gaurav31U/LEETCODE/tree/master/0770-couples-holding-hands) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
@@ -746,6 +747,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0685-redundant-connection-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0685-redundant-connection-ii) |
+| [0754-cracking-the-safe](https://github.com/Gaurav31U/LEETCODE/tree/master/0754-cracking-the-safe) |
 | [0770-couples-holding-hands](https://github.com/Gaurav31U/LEETCODE/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav31U/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1430,4 +1432,8 @@
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0754-cracking-the-safe](https://github.com/Gaurav31U/LEETCODE/tree/master/0754-cracking-the-safe) |
 <!---LeetCode Topics End-->
