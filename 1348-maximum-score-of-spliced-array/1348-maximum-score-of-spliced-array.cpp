@@ -9,7 +9,7 @@ public:
             s2+=nums2[i];
         }
         int s=0,sum=0;
-        for(int i=0;i<temp.size();i++){
+        for(int i=0;i<temp.size();i++){   // Kadane on diff
             sum+=temp[i];
             if(sum>=0)s=max(sum,s);
             else sum=0;
@@ -18,17 +18,11 @@ public:
         int ans=max(s1,s2);
         ans=max(s1+s,ans);
         s=0,sum=0;
-        for(int i=0;i<temp.size();i++){
+        for(int i=0;i<temp.size();i++){   // Kadane on diff
             sum+=temp[i];
             if(sum<0)sum=0;
             ans=max(ans,s2+sum);
         }
-        // sum=0;
-        // for(int i=0;i<vi.size();i++){
-        //     sum+=vi[i];
-        //     if(sum<0)sum=0;
-        //     ans=max(ans,s2+sum);
-        // }
         return ans;
     }
 };
