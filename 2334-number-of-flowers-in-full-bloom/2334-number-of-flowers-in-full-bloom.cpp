@@ -28,13 +28,10 @@ public:
         int last=0;
         for(int i=0;i<temp.size();i++){
             if(temp[i].second==-1){
-                // if(last!=temp[i].first){
-                    while(j<vi.size() && vi[j].first<=temp[i].first){
-                        ans[vi[j].second]=cnt;
-                        j++;
-                    }
-                // }
-                // last=temp[i].first;
+                while(j<vi.size() && vi[j].first<=temp[i].first){
+                    ans[vi[j].second]=cnt;
+                    j++;
+                }
                 cnt--;
             }else{
                 while(j<vi.size() && vi[j].first<temp[i].first){
