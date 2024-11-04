@@ -22,6 +22,7 @@
 | [0335-self-crossing](https://github.com/Gaurav31U/LEETCODE/tree/master/0335-self-crossing) |
 | [0376-wiggle-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0391-perfect-rectangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0391-perfect-rectangle) |
+| [0410-split-array-largest-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/Gaurav31U/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -234,6 +235,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Gaurav31U/LEETCODE/tree/master/0312-burst-balloons) |
 | [0376-wiggle-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/Gaurav31U/LEETCODE/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/Gaurav31U/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0488-zuma-game](https://github.com/Gaurav31U/LEETCODE/tree/master/0488-zuma-game) |
@@ -488,6 +490,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0327-count-of-range-sum) |
+| [0410-split-array-largest-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/Gaurav31U/LEETCODE/tree/master/0729-my-calendar-i) |
@@ -862,6 +865,7 @@
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0376-wiggle-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0770-couples-holding-hands](https://github.com/Gaurav31U/LEETCODE/tree/master/0770-couples-holding-hands) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Gaurav31U/LEETCODE/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -1007,6 +1011,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/0732-my-calendar-iii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
