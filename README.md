@@ -1188,6 +1188,7 @@
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/3451-string-compression-iii) |
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
