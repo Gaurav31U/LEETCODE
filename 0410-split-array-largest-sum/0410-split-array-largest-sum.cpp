@@ -1,24 +1,27 @@
 class Solution {
 public:
-    int dp[1001][52];
-    vector<int> temp;
-    int getans(int i,int m,vector<int> &ar){
-        if(dp[i][m]!=-1)return dp[i][m];
-        if(m==1)return temp.back()-temp[i];
-        int res=INT_MAX,curr=0;
-        for(int k=i;k<ar.size();k++){
-            curr+=ar[k];
-            res=min(res,max(curr,getans(k+1,m-1,ar)));
-            if(res<curr)break;
-        }
-        return dp[i][m]=res;
-    }
     int splitArray(vector<int>& nums, int k) {
-        temp.clear();
-        temp.push_back(0);
-        temp.push_back(nums[0]);
-        for(int i=1;i<nums.size();i++)temp.push_back(temp.back()+nums[i]);
-        memset(dp,-1,sizeof(dp));
-        return getans(0,k,nums);
+        long long l=0,r=INT_MAX;
+        while(l<r){
+            long long mid=(l+r)/2;
+            int cnt=1,sum=0;
+            for(int i=0;i<nums.size();i++){
+                sum+=nums[i];
+                if(sum>mid){
+                    cnt++;
+                    sum=nums[i];
+                    if(sum>mid){
+                        cnt=k+1;
+                        break;
+                    }
+                }
+            }
+            if(cnt<=k){
+                r=mid;
+            }else{
+                l=mid+1;
+            }
+        }
+        return l;
     }
 };
