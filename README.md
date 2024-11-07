@@ -143,6 +143,7 @@
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Gaurav31U/LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gaurav31U/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -376,6 +377,7 @@
 | [2344-escape-the-spreading-fire](https://github.com/Gaurav31U/LEETCODE/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gaurav31U/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
@@ -805,6 +807,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gaurav31U/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1308,6 +1311,7 @@
 | [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/Gaurav31U/LEETCODE/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2505-number-of-good-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/2505-number-of-good-paths) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -1326,6 +1330,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
