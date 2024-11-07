@@ -247,6 +247,7 @@
 | [0458-poor-pigs](https://github.com/Gaurav31U/LEETCODE/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/Gaurav31U/LEETCODE/tree/master/0466-count-the-repetitions) |
 | [0488-zuma-game](https://github.com/Gaurav31U/LEETCODE/tree/master/0488-zuma-game) |
+| [0552-student-attendance-record-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0639-decode-ways-ii) |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
