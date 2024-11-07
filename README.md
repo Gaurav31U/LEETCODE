@@ -767,6 +767,7 @@
 | [0052-n-queens-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
+| [1361-tiling-a-rectangle-with-the-fewest-squares](https://github.com/Gaurav31U/LEETCODE/tree/master/1361-tiling-a-rectangle-with-the-fewest-squares) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
