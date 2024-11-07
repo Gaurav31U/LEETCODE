@@ -429,6 +429,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Gaurav31U/LEETCODE/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -1442,6 +1443,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0327-count-of-range-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
@@ -1449,6 +1451,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0432-all-oone-data-structure](https://github.com/Gaurav31U/LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [1337-design-skiplist](https://github.com/Gaurav31U/LEETCODE/tree/master/1337-design-skiplist) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
@@ -1483,6 +1486,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0327-count-of-range-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 ## Game Theory
