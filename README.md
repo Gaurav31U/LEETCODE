@@ -49,6 +49,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1277-largest-multiple-of-three](https://github.com/Gaurav31U/LEETCODE/tree/master/1277-largest-multiple-of-three) |
+| [1286-constrained-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/Gaurav31U/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/Gaurav31U/LEETCODE/tree/master/1325-path-with-maximum-probability) |
@@ -253,6 +254,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Gaurav31U/LEETCODE/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1277-largest-multiple-of-three](https://github.com/Gaurav31U/LEETCODE/tree/master/1277-largest-multiple-of-three) |
+| [1286-constrained-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/Gaurav31U/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1348-maximum-score-of-spliced-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1348-maximum-score-of-spliced-array) |
@@ -416,6 +418,7 @@
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Gaurav31U/LEETCODE/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1270-dinner-plate-stacks](https://github.com/Gaurav31U/LEETCODE/tree/master/1270-dinner-plate-stacks) |
+| [1286-constrained-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [1304-longest-happy-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Gaurav31U/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Gaurav31U/LEETCODE/tree/master/1479-construct-target-array-with-multiple-sums) |
@@ -814,6 +817,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Gaurav31U/LEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1286-constrained-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Gaurav31U/LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
@@ -834,6 +838,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Gaurav31U/LEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1286-constrained-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/Gaurav31U/LEETCODE/tree/master/2211-k-radius-subarray-averages) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurav31U/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -860,6 +865,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gaurav31U/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1286-constrained-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Gaurav31U/LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
