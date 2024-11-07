@@ -127,6 +127,7 @@
 | [2344-escape-the-spreading-fire](https://github.com/Gaurav31U/LEETCODE/tree/master/2344-escape-the-spreading-fire) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Gaurav31U/LEETCODE/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gaurav31U/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Gaurav31U/LEETCODE/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -546,6 +547,7 @@
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2344-escape-the-spreading-fire](https://github.com/Gaurav31U/LEETCODE/tree/master/2344-escape-the-spreading-fire) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2380-booking-concert-tickets-in-groups) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Gaurav31U/LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Gaurav31U/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -865,6 +867,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurav31U/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Gaurav31U/LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Gaurav31U/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Gaurav31U/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1069,6 +1072,7 @@
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/Gaurav31U/LEETCODE/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Gaurav31U/LEETCODE/tree/master/2368-sum-of-total-strength-of-wizards) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Gaurav31U/LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Gaurav31U/LEETCODE/tree/master/2618-maximize-the-minimum-powered-city) |
