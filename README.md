@@ -136,6 +136,7 @@
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Gaurav31U/LEETCODE/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Gaurav31U/LEETCODE/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Gaurav31U/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -738,6 +739,7 @@
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Gaurav31U/LEETCODE/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2605-count-anagrams](https://github.com/Gaurav31U/LEETCODE/tree/master/2605-count-anagrams) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Gaurav31U/LEETCODE/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2757-count-of-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/2757-count-of-integers) |
@@ -938,6 +940,7 @@
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/Gaurav31U/LEETCODE/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Gaurav31U/LEETCODE/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
