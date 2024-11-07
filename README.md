@@ -46,6 +46,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1106-escape-a-large-maze](https://github.com/Gaurav31U/LEETCODE/tree/master/1106-escape-a-large-maze) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Gaurav31U/LEETCODE/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1220-smallest-sufficient-team](https://github.com/Gaurav31U/LEETCODE/tree/master/1220-smallest-sufficient-team) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1277-largest-multiple-of-three](https://github.com/Gaurav31U/LEETCODE/tree/master/1277-largest-multiple-of-three) |
@@ -254,6 +255,7 @@
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1170-shortest-common-supersequence) |
+| [1220-smallest-sufficient-team](https://github.com/Gaurav31U/LEETCODE/tree/master/1220-smallest-sufficient-team) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Gaurav31U/LEETCODE/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1277-largest-multiple-of-three](https://github.com/Gaurav31U/LEETCODE/tree/master/1277-largest-multiple-of-three) |
@@ -624,6 +626,7 @@
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Gaurav31U/LEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1220-smallest-sufficient-team](https://github.com/Gaurav31U/LEETCODE/tree/master/1220-smallest-sufficient-team) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
@@ -660,6 +663,7 @@
 | ------- |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1220-smallest-sufficient-team](https://github.com/Gaurav31U/LEETCODE/tree/master/1220-smallest-sufficient-team) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Gaurav31U/LEETCODE/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1587-parallel-courses-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1587-parallel-courses-ii) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/Gaurav31U/LEETCODE/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
