@@ -747,6 +747,7 @@
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Gaurav31U/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
@@ -899,6 +900,7 @@
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurav31U/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Gaurav31U/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2200-stamping-the-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2200-stamping-the-grid) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -974,6 +976,7 @@
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/Gaurav31U/LEETCODE/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Gaurav31U/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2682-count-increasing-quadruplets](https://github.com/Gaurav31U/LEETCODE/tree/master/2682-count-increasing-quadruplets) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3402-minimum-cost-to-equalize-array) |
@@ -1186,6 +1189,7 @@
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2091-number-of-ways-to-separate-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/2091-number-of-ways-to-separate-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurav31U/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Gaurav31U/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/Gaurav31U/LEETCODE/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
@@ -1306,6 +1310,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Gaurav31U/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2605-count-anagrams](https://github.com/Gaurav31U/LEETCODE/tree/master/2605-count-anagrams) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
