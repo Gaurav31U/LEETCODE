@@ -92,6 +92,7 @@
 | [1696-strange-printer-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1696-strange-printer-ii) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1794-minimize-deviation-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1794-minimize-deviation-in-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1881-closest-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1881-closest-subsequence-sum) |
@@ -449,6 +450,7 @@
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Gaurav31U/LEETCODE/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Gaurav31U/LEETCODE/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1794-minimize-deviation-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1794-minimize-deviation-in-array) |
 | [1902-car-fleet-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1902-car-fleet-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Gaurav31U/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gaurav31U/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -938,6 +940,7 @@
 | [1503-reducing-dishes](https://github.com/Gaurav31U/LEETCODE/tree/master/1503-reducing-dishes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1794-minimize-deviation-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1794-minimize-deviation-in-array) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -1187,6 +1190,7 @@
 | [0729-my-calendar-i](https://github.com/Gaurav31U/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/0732-my-calendar-iii) |
+| [1794-minimize-deviation-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1794-minimize-deviation-in-array) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Gaurav31U/LEETCODE/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2357-count-integers-in-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/2357-count-integers-in-intervals) |
