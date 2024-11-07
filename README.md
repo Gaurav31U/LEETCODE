@@ -129,6 +129,7 @@
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2344-escape-the-spreading-fire](https://github.com/Gaurav31U/LEETCODE/tree/master/2344-escape-the-spreading-fire) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Gaurav31U/LEETCODE/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/Gaurav31U/LEETCODE/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gaurav31U/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -416,6 +417,7 @@
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/2198-process-restricted-friend-requests) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Gaurav31U/LEETCODE/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gaurav31U/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Gaurav31U/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
@@ -818,6 +820,7 @@
 | [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gaurav31U/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Gaurav31U/LEETCODE/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -835,6 +838,7 @@
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Gaurav31U/LEETCODE/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1696-strange-printer-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1696-strange-printer-ii) |
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Gaurav31U/LEETCODE/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Gaurav31U/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
@@ -1243,6 +1247,7 @@
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Gaurav31U/LEETCODE/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2340-total-appeal-of-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2340-total-appeal-of-a-string) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Gaurav31U/LEETCODE/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [2569-number-of-beautiful-partitions](https://github.com/Gaurav31U/LEETCODE/tree/master/2569-number-of-beautiful-partitions) |
@@ -1326,6 +1331,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/Gaurav31U/LEETCODE/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Gaurav31U/LEETCODE/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2505-number-of-good-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/2505-number-of-good-paths) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gaurav31U/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
