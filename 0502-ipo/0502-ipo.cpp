@@ -12,9 +12,6 @@ public:
                 pq.push(temp[i].second);
             }else{
                 if(pq.empty())return w;
-                w+=pq.top();
-                pq.pop();
-                k--;
                 while(!pq.empty() && w<temp[i].first && k>0){
                     w+=pq.top();
                     pq.pop();
