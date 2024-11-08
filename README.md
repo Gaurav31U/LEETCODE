@@ -19,6 +19,7 @@
 | [0312-burst-balloons](https://github.com/Gaurav31U/LEETCODE/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0327-count-of-range-sum) |
+| [0330-patching-array](https://github.com/Gaurav31U/LEETCODE/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/Gaurav31U/LEETCODE/tree/master/0335-self-crossing) |
 | [0376-wiggle-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0391-perfect-rectangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0391-perfect-rectangle) |
@@ -933,6 +934,7 @@
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/Gaurav31U/LEETCODE/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/Gaurav31U/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
