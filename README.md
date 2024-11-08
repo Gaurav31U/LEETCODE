@@ -101,6 +101,7 @@
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/Gaurav31U/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Gaurav31U/LEETCODE/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1968-maximum-building-height](https://github.com/Gaurav31U/LEETCODE/tree/master/1968-maximum-building-height) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
@@ -660,6 +661,7 @@
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/Gaurav31U/LEETCODE/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1881-closest-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1881-closest-subsequence-sum) |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
+| [1940-maximum-xor-for-each-query](https://github.com/Gaurav31U/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Gaurav31U/LEETCODE/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2105-the-number-of-good-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2105-the-number-of-good-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1099,6 +1101,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Gaurav31U/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Gaurav31U/LEETCODE/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1694-make-sum-divisible-by-p](https://github.com/Gaurav31U/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/Gaurav31U/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
 | [2002-stone-game-viii](https://github.com/Gaurav31U/LEETCODE/tree/master/2002-stone-game-viii) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
