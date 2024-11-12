@@ -120,6 +120,7 @@
 | [2155-find-missing-observations](https://github.com/Gaurav31U/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Gaurav31U/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/Gaurav31U/LEETCODE/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -563,6 +564,7 @@
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Gaurav31U/LEETCODE/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Gaurav31U/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Gaurav31U/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurav31U/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Gaurav31U/LEETCODE/tree/master/2294-minimum-time-to-complete-trips) |
@@ -621,6 +623,7 @@
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1968-maximum-building-height](https://github.com/Gaurav31U/LEETCODE/tree/master/1968-maximum-building-height) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Gaurav31U/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
