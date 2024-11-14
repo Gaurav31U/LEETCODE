@@ -122,6 +122,7 @@
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Gaurav31U/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gaurav31U/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/Gaurav31U/LEETCODE/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2200-stamping-the-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2200-stamping-the-grid) |
@@ -566,6 +567,7 @@
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Gaurav31U/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gaurav31U/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurav31U/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Gaurav31U/LEETCODE/tree/master/2294-minimum-time-to-complete-trips) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
