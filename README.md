@@ -93,6 +93,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Gaurav31U/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1696-strange-printer-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1696-strange-printer-ii) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1755-defuse-the-bomb](https://github.com/Gaurav31U/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1794-minimize-deviation-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1794-minimize-deviation-in-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -907,6 +908,7 @@
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1286-constrained-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1286-constrained-subsequence-sum) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1755-defuse-the-bomb](https://github.com/Gaurav31U/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [2211-k-radius-subarray-averages](https://github.com/Gaurav31U/LEETCODE/tree/master/2211-k-radius-subarray-averages) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurav31U/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
