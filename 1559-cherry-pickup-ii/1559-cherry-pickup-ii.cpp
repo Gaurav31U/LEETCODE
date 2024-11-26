@@ -11,8 +11,8 @@ public:
         int res=0;
         int x[3]={1,1,1};
         int y[3]={-1,0,+1};
-        for(int k=0;k<3;k++){
-            for(int p=0;p<3;p++){
+        for(int k=0;k<3;k++){  // important
+            for(int p=0;p<3;p++){   // important
                 int aux=mat[i1][j1];
 
                 if(i==i1 && j==j1)
