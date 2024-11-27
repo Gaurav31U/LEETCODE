@@ -236,6 +236,7 @@
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3527-alternating-groups-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/3527-alternating-groups-iii) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
@@ -404,6 +405,7 @@
 | [2726-minimum-reverse-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2726-minimum-reverse-operations) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Gaurav31U/LEETCODE/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Gaurav31U/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Graph
@@ -444,6 +446,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Gaurav31U/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
