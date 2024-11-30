@@ -248,6 +248,7 @@
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Gaurav31U/LEETCODE/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Dynamic Programming
@@ -489,6 +490,7 @@
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -942,6 +944,7 @@
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1218,6 +1221,7 @@
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Ordered Set
 |  |
 | ------- |
