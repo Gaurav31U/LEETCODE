@@ -236,6 +236,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3482-construct-string-with-minimum-cost](https://github.com/Gaurav31U/LEETCODE/tree/master/3482-construct-string-with-minimum-cost) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Gaurav31U/LEETCODE/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -664,6 +665,7 @@
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gaurav31U/LEETCODE/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3344-minimize-manhattan-distances](https://github.com/Gaurav31U/LEETCODE/tree/master/3344-minimize-manhattan-distances) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
 ## Bit Manipulation
@@ -1008,6 +1010,7 @@
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3402-minimum-cost-to-equalize-array) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Gaurav31U/LEETCODE/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
