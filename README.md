@@ -605,6 +605,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Gaurav31U/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3362-find-the-median-of-the-uniqueness-array) |
@@ -941,6 +942,7 @@
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3223-count-complete-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/3223-count-complete-substrings) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1219,6 +1221,7 @@
 | [3208-count-beautiful-substrings-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3208-count-beautiful-substrings-ii) |
 | [3223-count-complete-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/3223-count-complete-substrings) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/Gaurav31U/LEETCODE/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -1318,6 +1321,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
@@ -1423,6 +1427,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2605-count-anagrams](https://github.com/Gaurav31U/LEETCODE/tree/master/2605-count-anagrams) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
 ## Rolling Hash
 |  |
