@@ -175,6 +175,7 @@
 | [2681-put-marbles-in-bags](https://github.com/Gaurav31U/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2682-count-increasing-quadruplets](https://github.com/Gaurav31U/LEETCODE/tree/master/2682-count-increasing-quadruplets) |
 | [2689-rearranging-fruits](https://github.com/Gaurav31U/LEETCODE/tree/master/2689-rearranging-fruits) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Gaurav31U/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2703-handling-sum-queries-after-update](https://github.com/Gaurav31U/LEETCODE/tree/master/2703-handling-sum-queries-after-update) |
@@ -482,6 +483,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Gaurav31U/LEETCODE/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/Gaurav31U/LEETCODE/tree/master/2681-put-marbles-in-bags) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Gaurav31U/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Gaurav31U/LEETCODE/tree/master/2803-modify-graph-edge-weights) |
@@ -1520,6 +1522,7 @@
 | [2155-find-missing-observations](https://github.com/Gaurav31U/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/2411-spiral-matrix-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Gaurav31U/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
