@@ -104,6 +104,7 @@
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1902-car-fleet-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1902-car-fleet-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
+| [1917-maximum-average-pass-ratio](https://github.com/Gaurav31U/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Gaurav31U/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
@@ -475,6 +476,7 @@
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Gaurav31U/LEETCODE/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1794-minimize-deviation-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1794-minimize-deviation-in-array) |
 | [1902-car-fleet-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1902-car-fleet-ii) |
+| [1917-maximum-average-pass-ratio](https://github.com/Gaurav31U/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Gaurav31U/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gaurav31U/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Gaurav31U/LEETCODE/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -988,6 +990,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1794-minimize-deviation-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1794-minimize-deviation-in-array) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1917-maximum-average-pass-ratio](https://github.com/Gaurav31U/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Gaurav31U/LEETCODE/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurav31U/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
