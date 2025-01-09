@@ -135,6 +135,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Gaurav31U/LEETCODE/tree/master/2294-minimum-time-to-complete-trips) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Gaurav31U/LEETCODE/tree/master/2319-longest-substring-of-one-repeating-character) |
@@ -1309,6 +1310,7 @@
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2232-adding-spaces-to-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2275-find-substring-with-given-hash-value](https://github.com/Gaurav31U/LEETCODE/tree/master/2275-find-substring-with-given-hash-value) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/Gaurav31U/LEETCODE/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Gaurav31U/LEETCODE/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -1468,6 +1470,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0214-shortest-palindrome) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2510-maximum-deletions-on-a-string) |
 | [3024-string-transformation](https://github.com/Gaurav31U/LEETCODE/tree/master/3024-string-transformation) |
