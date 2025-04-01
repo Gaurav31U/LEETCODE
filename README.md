@@ -135,6 +135,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2262-solving-questions-with-brainpower](https://github.com/Gaurav31U/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Gaurav31U/LEETCODE/tree/master/2294-minimum-time-to-complete-trips) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -331,6 +332,7 @@
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2176-parallel-courses-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/2176-parallel-courses-iii) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/Gaurav31U/LEETCODE/tree/master/2193-count-fertile-pyramids-in-a-land) |
+| [2262-solving-questions-with-brainpower](https://github.com/Gaurav31U/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/Gaurav31U/LEETCODE/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2340-total-appeal-of-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2340-total-appeal-of-a-string) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
