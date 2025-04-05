@@ -111,6 +111,7 @@
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Gaurav31U/LEETCODE/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1968-maximum-building-height](https://github.com/Gaurav31U/LEETCODE/tree/master/1968-maximum-building-height) |
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaurav31U/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2002-stone-game-viii](https://github.com/Gaurav31U/LEETCODE/tree/master/2002-stone-game-viii) |
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Gaurav31U/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -706,6 +707,7 @@
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [1940-maximum-xor-for-each-query](https://github.com/Gaurav31U/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Gaurav31U/LEETCODE/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaurav31U/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2105-the-number-of-good-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2105-the-number-of-good-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Gaurav31U/LEETCODE/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -789,6 +791,7 @@
 | [1936-maximize-number-of-nice-divisors](https://github.com/Gaurav31U/LEETCODE/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Gaurav31U/LEETCODE/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1968-maximum-building-height](https://github.com/Gaurav31U/LEETCODE/tree/master/1968-maximum-building-height) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaurav31U/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2002-stone-game-viii](https://github.com/Gaurav31U/LEETCODE/tree/master/2002-stone-game-viii) |
 | [2105-the-number-of-good-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2105-the-number-of-good-subsets) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
@@ -837,6 +840,7 @@
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1906-maximize-score-after-n-operations](https://github.com/Gaurav31U/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaurav31U/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Gaurav31U/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Gaurav31U/LEETCODE/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -1085,6 +1089,7 @@
 | [0479-largest-palindrome-product](https://github.com/Gaurav31U/LEETCODE/tree/master/0479-largest-palindrome-product) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/Gaurav31U/LEETCODE/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaurav31U/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Gaurav31U/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1522,6 +1527,7 @@
 | ------- |
 | [0458-poor-pigs](https://github.com/Gaurav31U/LEETCODE/tree/master/0458-poor-pigs) |
 | [0956-number-of-music-playlists](https://github.com/Gaurav31U/LEETCODE/tree/master/0956-number-of-music-playlists) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Gaurav31U/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2605-count-anagrams](https://github.com/Gaurav31U/LEETCODE/tree/master/2605-count-anagrams) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Gaurav31U/LEETCODE/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
