@@ -265,6 +265,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Gaurav31U/LEETCODE/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Gaurav31U/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1263,6 +1264,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Gaurav31U/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Ordered Set
 |  |
 | ------- |
