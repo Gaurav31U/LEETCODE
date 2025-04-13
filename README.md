@@ -801,6 +801,7 @@
 | [1968-maximum-building-height](https://github.com/Gaurav31U/LEETCODE/tree/master/1968-maximum-building-height) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gaurav31U/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2002-stone-game-viii](https://github.com/Gaurav31U/LEETCODE/tree/master/2002-stone-game-viii) |
+| [2050-count-good-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/2050-count-good-numbers) |
 | [2105-the-number-of-good-subsets](https://github.com/Gaurav31U/LEETCODE/tree/master/2105-the-number-of-good-subsets) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2155-find-missing-observations](https://github.com/Gaurav31U/LEETCODE/tree/master/2155-find-missing-observations) |
@@ -1611,6 +1612,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Gaurav31U/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/Gaurav31U/LEETCODE/tree/master/1936-maximize-number-of-nice-divisors) |
+| [2050-count-good-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Merge Sort
 |  |
 | ------- |
