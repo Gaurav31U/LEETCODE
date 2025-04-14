@@ -90,6 +90,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1638-best-position-for-a-service-centre](https://github.com/Gaurav31U/LEETCODE/tree/master/1638-best-position-for-a-service-centre) |
+| [1656-count-good-triplets](https://github.com/Gaurav31U/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gaurav31U/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1680-count-all-possible-routes](https://github.com/Gaurav31U/LEETCODE/tree/master/1680-count-all-possible-routes) |
@@ -1097,6 +1098,7 @@
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/Gaurav31U/LEETCODE/tree/master/0479-largest-palindrome-product) |
+| [1656-count-good-triplets](https://github.com/Gaurav31U/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Gaurav31U/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/Gaurav31U/LEETCODE/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gaurav31U/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
