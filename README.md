@@ -140,6 +140,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2262-solving-questions-with-brainpower](https://github.com/Gaurav31U/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Gaurav31U/LEETCODE/tree/master/2294-minimum-time-to-complete-trips) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -606,6 +607,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Gaurav31U/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gaurav31U/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurav31U/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Gaurav31U/LEETCODE/tree/master/2294-minimum-time-to-complete-trips) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/Gaurav31U/LEETCODE/tree/master/2330-maximum-total-beauty-of-the-gardens) |
@@ -1082,6 +1084,7 @@
 | [0327-count-of-range-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Gaurav31U/LEETCODE/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2380-booking-concert-tickets-in-groups) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2682-count-increasing-quadruplets](https://github.com/Gaurav31U/LEETCODE/tree/master/2682-count-increasing-quadruplets) |
@@ -1281,6 +1284,7 @@
 | [0731-my-calendar-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/0732-my-calendar-iii) |
 | [1794-minimize-deviation-in-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1794-minimize-deviation-in-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Gaurav31U/LEETCODE/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Gaurav31U/LEETCODE/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2357-count-integers-in-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/2357-count-integers-in-intervals) |
@@ -1405,6 +1409,7 @@
 | [0731-my-calendar-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/0732-my-calendar-iii) |
 | [1728-fancy-sequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1728-fancy-sequence) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Gaurav31U/LEETCODE/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2357-count-integers-in-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/2357-count-integers-in-intervals) |
 | [2380-booking-concert-tickets-in-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/2380-booking-concert-tickets-in-groups) |
@@ -1576,6 +1581,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0327-count-of-range-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/2526-longest-increasing-subsequence-ii) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Gaurav31U/LEETCODE/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Linked List
@@ -1621,6 +1627,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0327-count-of-range-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/0493-reverse-pairs) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Game Theory
 |  |
 | ------- |
