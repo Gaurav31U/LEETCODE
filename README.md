@@ -1300,6 +1300,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Gaurav31U/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Gaurav31U/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Gaurav31U/LEETCODE/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0126-word-ladder-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
