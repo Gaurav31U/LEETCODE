@@ -37,6 +37,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0787-sliding-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/Gaurav31U/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0821-bricks-falling-when-hit](https://github.com/Gaurav31U/LEETCODE/tree/master/0821-bricks-falling-when-hit) |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
 | [0869-similar-string-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/0869-similar-string-groups) |
@@ -783,6 +784,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Gaurav31U/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0796-reaching-points](https://github.com/Gaurav31U/LEETCODE/tree/master/0796-reaching-points) |
+| [0797-rabbits-in-forest](https://github.com/Gaurav31U/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0910-nth-magical-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0910-nth-magical-number) |
@@ -1011,6 +1013,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0770-couples-holding-hands](https://github.com/Gaurav31U/LEETCODE/tree/master/0770-couples-holding-hands) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0797-rabbits-in-forest](https://github.com/Gaurav31U/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Gaurav31U/LEETCODE/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Gaurav31U/LEETCODE/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1277-largest-multiple-of-three](https://github.com/Gaurav31U/LEETCODE/tree/master/1277-largest-multiple-of-three) |
@@ -1220,6 +1223,7 @@
 | [0432-all-oone-data-structure](https://github.com/Gaurav31U/LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gaurav31U/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Gaurav31U/LEETCODE/tree/master/0726-number-of-atoms) |
+| [0797-rabbits-in-forest](https://github.com/Gaurav31U/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0869-similar-string-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/0869-similar-string-groups) |
 | [0894-random-pick-with-blacklist](https://github.com/Gaurav31U/LEETCODE/tree/master/0894-random-pick-with-blacklist) |
 | [0906-walking-robot-simulation](https://github.com/Gaurav31U/LEETCODE/tree/master/0906-walking-robot-simulation) |
