@@ -795,6 +795,7 @@
 | [1326-sum-of-floored-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/1326-sum-of-floored-pairs) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1372-check-if-it-is-a-good-array) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
+| [1500-count-largest-group](https://github.com/Gaurav31U/LEETCODE/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Gaurav31U/LEETCODE/tree/master/1617-stone-game-iv) |
 | [1638-best-position-for-a-service-centre](https://github.com/Gaurav31U/LEETCODE/tree/master/1638-best-position-for-a-service-centre) |
@@ -1240,6 +1241,7 @@
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Gaurav31U/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1500-count-largest-group](https://github.com/Gaurav31U/LEETCODE/tree/master/1500-count-largest-group) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Gaurav31U/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
