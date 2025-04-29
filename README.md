@@ -218,6 +218,7 @@
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Gaurav31U/LEETCODE/tree/master/3211-find-maximum-non-decreasing-array-length) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Gaurav31U/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/Gaurav31U/LEETCODE/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -983,6 +984,7 @@
 | [2868-continuous-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/2868-continuous-subarrays) |
 | [3091-count-of-sub-multisets-with-bounded-sum](https://github.com/Gaurav31U/LEETCODE/tree/master/3091-count-of-sub-multisets-with-bounded-sum) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3197-maximum-strong-pair-xor-ii) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Gaurav31U/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3223-count-complete-substrings](https://github.com/Gaurav31U/LEETCODE/tree/master/3223-count-complete-substrings) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
