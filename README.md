@@ -72,6 +72,7 @@
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Gaurav31U/LEETCODE/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Gaurav31U/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
@@ -797,6 +798,7 @@
 | [0956-number-of-music-playlists](https://github.com/Gaurav31U/LEETCODE/tree/master/0956-number-of-music-playlists) |
 | [1326-sum-of-floored-pairs](https://github.com/Gaurav31U/LEETCODE/tree/master/1326-sum-of-floored-pairs) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Gaurav31U/LEETCODE/tree/master/1372-check-if-it-is-a-good-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Gaurav31U/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1500-count-largest-group](https://github.com/Gaurav31U/LEETCODE/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1522-stone-game-iii) |
