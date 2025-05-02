@@ -297,6 +297,7 @@
 | [0552-student-attendance-record-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0639-decode-ways-ii) |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
+| [0868-push-dominoes](https://github.com/Gaurav31U/LEETCODE/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0923-super-egg-drop](https://github.com/Gaurav31U/LEETCODE/tree/master/0923-super-egg-drop) |
 | [0949-cat-and-mouse](https://github.com/Gaurav31U/LEETCODE/tree/master/0949-cat-and-mouse) |
@@ -1073,6 +1074,7 @@
 | [0042-trapping-rain-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [0868-push-dominoes](https://github.com/Gaurav31U/LEETCODE/tree/master/0868-push-dominoes) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Gaurav31U/LEETCODE/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Gaurav31U/LEETCODE/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1329,6 +1331,7 @@
 | [0639-decode-ways-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0639-decode-ways-ii) |
 | [0726-number-of-atoms](https://github.com/Gaurav31U/LEETCODE/tree/master/0726-number-of-atoms) |
 | [0763-special-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/0763-special-binary-string) |
+| [0868-push-dominoes](https://github.com/Gaurav31U/LEETCODE/tree/master/0868-push-dominoes) |
 | [0869-similar-string-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/0869-similar-string-groups) |
 | [0935-orderly-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/0935-orderly-queue) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1000-delete-columns-to-make-sorted-iii) |
