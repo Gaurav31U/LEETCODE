@@ -297,6 +297,7 @@
 | [0488-zuma-game](https://github.com/Gaurav31U/LEETCODE/tree/master/0488-zuma-game) |
 | [0552-student-attendance-record-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0639-decode-ways-ii) |
+| [0806-domino-and-tromino-tiling](https://github.com/Gaurav31U/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
 | [0823-split-array-with-same-average](https://github.com/Gaurav31U/LEETCODE/tree/master/0823-split-array-with-same-average) |
 | [0868-push-dominoes](https://github.com/Gaurav31U/LEETCODE/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Gaurav31U/LEETCODE/tree/master/0877-shortest-path-visiting-all-nodes) |
