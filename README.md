@@ -119,6 +119,7 @@
 | [1985-maximum-subarray-min-product](https://github.com/Gaurav31U/LEETCODE/tree/master/1985-maximum-subarray-min-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Gaurav31U/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2002-stone-game-viii](https://github.com/Gaurav31U/LEETCODE/tree/master/2002-stone-game-viii) |
+| [2048-build-array-from-permutation](https://github.com/Gaurav31U/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2051-longest-common-subpath](https://github.com/Gaurav31U/LEETCODE/tree/master/2051-longest-common-subpath) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Gaurav31U/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Gaurav31U/LEETCODE/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -1587,6 +1588,7 @@
 | [0906-walking-robot-simulation](https://github.com/Gaurav31U/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2048-build-array-from-permutation](https://github.com/Gaurav31U/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Gaurav31U/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Gaurav31U/LEETCODE/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Gaurav31U/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
