@@ -410,6 +410,7 @@
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Gaurav31U/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Breadth-First Search
 |  |
@@ -861,6 +862,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Gaurav31U/LEETCODE/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Gaurav31U/LEETCODE/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Gaurav31U/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
@@ -1307,6 +1309,7 @@
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Gaurav31U/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Ordered Set
 |  |
@@ -1415,6 +1418,7 @@
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Gaurav31U/LEETCODE/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Gaurav31U/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Design
 |  |
@@ -1515,6 +1519,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Gaurav31U/LEETCODE/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Rolling Hash
 |  |
 | ------- |
