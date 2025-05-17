@@ -9,6 +9,7 @@
 | [0051-n-queens](https://github.com/Gaurav31U/LEETCODE/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Gaurav31U/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Gaurav31U/LEETCODE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav31U/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
@@ -667,6 +668,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Gaurav31U/LEETCODE/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Gaurav31U/LEETCODE/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Gaurav31U/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0502-ipo](https://github.com/Gaurav31U/LEETCODE/tree/master/0502-ipo) |
@@ -1090,6 +1092,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Gaurav31U/LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Gaurav31U/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Gaurav31U/LEETCODE/tree/master/0075-sort-colors) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurav31U/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0868-push-dominoes](https://github.com/Gaurav31U/LEETCODE/tree/master/0868-push-dominoes) |
