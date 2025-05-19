@@ -238,6 +238,7 @@
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3313-maximum-strength-of-k-disjoint-subarrays](https://github.com/Gaurav31U/LEETCODE/tree/master/3313-maximum-strength-of-k-disjoint-subarrays) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
+| [3321-type-of-triangle](https://github.com/Gaurav31U/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3327-minimum-moves-to-pick-k-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/3327-minimum-moves-to-pick-k-ones) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gaurav31U/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3344-minimize-manhattan-distances](https://github.com/Gaurav31U/LEETCODE/tree/master/3344-minimize-manhattan-distances) |
@@ -717,6 +718,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/Gaurav31U/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Gaurav31U/LEETCODE/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Gaurav31U/LEETCODE/tree/master/3316-find-the-sum-of-subsequence-powers) |
+| [3321-type-of-triangle](https://github.com/Gaurav31U/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3344-minimize-manhattan-distances](https://github.com/Gaurav31U/LEETCODE/tree/master/3344-minimize-manhattan-distances) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -855,6 +857,7 @@
 | [3208-count-beautiful-substrings-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3208-count-beautiful-substrings-ii) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/Gaurav31U/LEETCODE/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/Gaurav31U/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3344-minimize-manhattan-distances](https://github.com/Gaurav31U/LEETCODE/tree/master/3344-minimize-manhattan-distances) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gaurav31U/LEETCODE/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Gaurav31U/LEETCODE/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
