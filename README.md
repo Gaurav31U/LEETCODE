@@ -282,6 +282,7 @@
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Gaurav31U/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3639-zero-array-transformation-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Gaurav31U/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Gaurav31U/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Dynamic Programming
@@ -1247,6 +1248,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
