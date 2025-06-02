@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Gaurav31U/LEETCODE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Gaurav31U/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav31U/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Gaurav31U/LEETCODE/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/Gaurav31U/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/0212-word-search-ii) |
@@ -1036,6 +1037,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gaurav31U/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/Gaurav31U/LEETCODE/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/Gaurav31U/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Gaurav31U/LEETCODE/tree/master/0330-patching-array) |
