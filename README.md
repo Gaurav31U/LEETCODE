@@ -77,6 +77,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Gaurav31U/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gaurav31U/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gaurav31U/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Gaurav31U/LEETCODE/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Gaurav31U/LEETCODE/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Gaurav31U/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
@@ -435,6 +436,7 @@
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Gaurav31U/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Gaurav31U/LEETCODE/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Gaurav31U/LEETCODE/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gaurav31U/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
@@ -467,6 +469,7 @@
 | [1300-critical-connections-in-a-network](https://github.com/Gaurav31U/LEETCODE/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Gaurav31U/LEETCODE/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1325-path-with-maximum-probability](https://github.com/Gaurav31U/LEETCODE/tree/master/1325-path-with-maximum-probability) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gaurav31U/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gaurav31U/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-frog-position-after-t-seconds](https://github.com/Gaurav31U/LEETCODE/tree/master/1493-frog-position-after-t-seconds) |
 | [1587-parallel-courses-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/1587-parallel-courses-ii) |
