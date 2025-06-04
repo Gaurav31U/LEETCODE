@@ -1122,6 +1122,7 @@
 | [2701-subsequence-with-the-minimum-score](https://github.com/Gaurav31U/LEETCODE/tree/master/2701-subsequence-with-the-minimum-score) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1163,6 +1164,7 @@
 | [3544-count-almost-equal-pairs-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3544-count-almost-equal-pairs-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Gaurav31U/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -1439,6 +1441,7 @@
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Gaurav31U/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Gaurav31U/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Gaurav31U/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
 |  |
 | ------- |
