@@ -961,6 +961,7 @@
 | [0821-bricks-falling-when-hit](https://github.com/Gaurav31U/LEETCODE/tree/master/0821-bricks-falling-when-hit) |
 | [0869-similar-string-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav31U/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Gaurav31U/LEETCODE/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Gaurav31U/LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Gaurav31U/LEETCODE/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -1374,6 +1375,7 @@
 | [0869-similar-string-groups](https://github.com/Gaurav31U/LEETCODE/tree/master/0869-similar-string-groups) |
 | [0935-orderly-queue](https://github.com/Gaurav31U/LEETCODE/tree/master/0935-orderly-queue) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Gaurav31U/LEETCODE/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Gaurav31U/LEETCODE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1122-longest-duplicate-substring](https://github.com/Gaurav31U/LEETCODE/tree/master/1122-longest-duplicate-substring) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Gaurav31U/LEETCODE/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1170-shortest-common-supersequence](https://github.com/Gaurav31U/LEETCODE/tree/master/1170-shortest-common-supersequence) |
